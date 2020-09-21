@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Il sito sarà costruito in jekyll per comodità
+Il sito sarà costruito in jekyll per comodità (anche se per ora non ci sto capendo molto...)
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
