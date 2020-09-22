@@ -4,6 +4,8 @@ title: News
 #background_style: bg-info
 #background_image: url('assets/img/backgrounds/image-from-rawpixel-id-1199650-jpeg.jpg')
 # Add a link to the the top menu
+menus:
+  header:
     title: 2020-09-20 Ci siamo quasi!
     weight: 2
 
