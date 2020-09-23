@@ -25,7 +25,7 @@ sections:
     background_style: bg-info text-white
     members:
       - title: Rosso Malpolo
-        text: Collettivo di Scienze Politiche
+        text: Collettivo del Polo delle Scienze Sociali
         image: assets/img/members/malpolo.png
         url: '#'
       - title: Scienze
