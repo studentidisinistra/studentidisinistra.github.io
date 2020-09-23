@@ -2,14 +2,14 @@
 layout: page
 title: Links
 #background_style: bg-info
-background_image: url('assets/img/backgrounds/image-from-rawpixel-id-1199650-jpeg.jpg')
+#background_image: url('assets/img/backgrounds/image-from-rawpixel-id-1199650-jpeg.jpg')
 # Add a link to the the top menu
 menus:
   header:
     title: Links
     weight: 2
-
-sections:
+#da qui in poi tutto commentato
+<!-- sections:
 - type: address.html
   section_id: address
   title: You are welcome!
@@ -95,7 +95,7 @@ sections:
 
     1. Lorem ipsum dolor sit amet
     2. Consectetur adipiscing elit
-    3. Integer molestie lorem at massa
+    3. Integer molestie lorem at massa -->
 
 ---
-Here goes some raw markdown content.
+Qui inseriremo i nostri link vari per renderli facilmente raggiungibili da Instagram e altri social.

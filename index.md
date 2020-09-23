@@ -37,7 +37,7 @@ sections:
         image: assets/img/members/sestograd.png
         url: '#'
       - title: Filo da Torcere
-        text: Il collettivo d'Ingegneria
+        text: collettivo d'Ingegneria
         image: assets/img/members/ingegneria.png
         url: '#'
       - title: Codice Rosso
@@ -56,4 +56,10 @@ sections:
         text: Collettivo Umanistico
         image: assets/img/members/cuma.png
         url: '#'
+
+#Le nostre battaglie
+#RAPPRESENTANZA
+#iniziative
+#Servizi Online
+
 ---
