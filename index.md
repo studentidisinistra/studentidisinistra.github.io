@@ -56,6 +56,15 @@ sections:
         text: Collettivo Umanistico
         image: assets/img/members/cuma.png
         url: '#'
+  - type: slimbutton.html
+    section_id: tornaincima
+    background_style: bg-secondary
+    title:
+    text:
+    actions:
+      - title: Torna in Cima
+        url: '#page-top'
+        class: btn-light
 
 #Le nostre battaglie
 #RAPPRESENTANZA
