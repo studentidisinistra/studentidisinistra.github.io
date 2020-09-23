@@ -5,13 +5,13 @@
 header:
 - title: About
   url: /#about
-- title: News
-  url: /news
 - title: Collettivi
   url: /#collettivi
 #- title: La Nostra Storia
 #  url: /#La Nostra Storia
 #- title: Contatti
 #  url: /#contatti
+- title: News
+  url: /news
 - title: Links
   url: /links

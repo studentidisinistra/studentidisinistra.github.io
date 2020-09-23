@@ -15,10 +15,11 @@ sections:
     background_style: bg-primary
     title: Chi Siamo
     text: Come te, siamo studentə che quotidianamente attraversano gli spazi dell’Università, delle biblioteche e delle mense; in sede, fuori sede e pendolari; matricole, in procinto di laurearsi o a metà del proprio percorso. Ciò che condividiamo è la volontà di incidere sulla realtà in cui viviamo, a partire dal mondo dell’istruzione, per arrivare ad una società più equa, libera e consapevole. Siamo dislocatə in tutti i plessi UniFi, ed è principalmente in questi luoghi che svolgiamo le nostre attività, secondo i nostri principi fondamentali; inclusività, auto-organizzazione, anti-fascismo, anti-capitalismo, anti-sessismo.
-    #actions:
-    #  - title: Get Started!
-    #    url: '#page-top'
-    #    class: btn-light
+    actions:
+      - title: Conosci i Collettivi
+        url: '#collettivi'
+        class: btn-light
+
   - type: members.html
     section_id: collettivi
     title: I Collettivi
@@ -56,15 +57,17 @@ sections:
         text: Collettivo Umanistico
         image: assets/img/members/cuma.png
         url: '#'
-  - type: slimbutton.html
-    section_id: tornaincima
-    background_style: bg-secondary
-    title:
-    text:
-    actions:
-      - title: Torna in Cima
-        url: '#page-top'
-        class: btn-light
+
+# TORNA SU A FINE PAGINA
+#  - type: slimbutton.html
+#    section_id: tornaincima
+#    background_style: bg-info
+#    title:
+#    text:
+#    actions:
+#      - title: Torna in Cima
+#        url: '#page-top'
+#        class: btn-light
 
 #Le nostre battaglie
 #RAPPRESENTANZA
