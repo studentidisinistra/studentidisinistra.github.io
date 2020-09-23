@@ -19,5 +19,41 @@ sections:
     #  - title: Get Started!
     #    url: '#page-top'
     #    class: btn-light
-
+  - type: members.html
+    section_id: collettivi
+    title: I Collettivi
+    background_style: bg-info text-white
+    members:
+      - title: Rosso Malpolo
+        text: Collettivo di Scienze Politiche
+        image: assets/img/members/malpolo.png
+        url: '#'
+      - title: Scienze
+        text: Collettivo della scuola di Scienze Matematiche, Fisiche e Naturali
+        image: assets/img/members/scienze.png
+        url: '#'
+      - title: Sestograd
+        text: Collettivo del Polo Scientifico di Sesto Fiorentino
+        image: assets/img/members/sestograd.png
+        url: '#'
+      - title: Filo da Torcere
+        text: Il collettivo d'Ingegneria
+        image: assets/img/members/ingegneria.png
+        url: '#'
+      - title: Codice Rosso
+        text: Collettivo di Medicina
+        image: assets/img/members/codrosso.png
+        url: '#'
+      - title: Ark
+        text: Collettivo di Architettura
+        image: assets/img/members/ark.png
+        url: '#'
+      - title: Laboratorio 15
+        text: Collettivo di Psicologia
+        image: assets/img/members/lab15.png
+        url: '#'
+      - title: CUMA
+        text: Collettivo Umanistico
+        image: assets/img/members/cuma.png
+        url: '#'
 ---

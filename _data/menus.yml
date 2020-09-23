@@ -7,8 +7,8 @@ header:
   url: /#about
 - title: News
   url: /news
-#- title: I Collettivi
-#  url: /#I Collettivi
+- title: Collettivi
+  url: /#collettivi
 #- title: La Nostra Storia
 #  url: /#La Nostra Storia
 #- title: Contatti
