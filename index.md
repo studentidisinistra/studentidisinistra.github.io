@@ -19,6 +19,9 @@ sections:
       - title: Conosci i Collettivi
         url: '#collettivi'
         class: btn-light
+        - title: Conosci i Collettivi
+          url: '#collettivi'
+          class: btn-light
 
   - type: members.html
     section_id: collettivi
