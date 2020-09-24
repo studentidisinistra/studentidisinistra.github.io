@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Links
+title: Link di studentidisinistra
 #background_style: bg-info
 #background_image: url('assets/img/backgrounds/image-from-rawpixel-id-1199650-jpeg.jpg')
 # Add a link to the the top menu
@@ -8,94 +8,54 @@ menus:
   header:
     title: Links
     weight: 2
-#da qui in poi tutto commentato
-<!-- sections:
-- type: address.html
-  section_id: address
-  title: You are welcome!
-  map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2949.1784803899586!2d-71.56614568458906!3d42.338717979188324!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6335220b7c08850a!2sMarlborough%20District%20Court!5e0!3m2!1sen!2sbg!4v1583193778570!5m2!1sen!2sbg
-  address:
-    title: Address
-    text: >
-      45 Williams St,<br/>
-      Marlborough, MA 01752,<br/>
-      United States
-  phone:
-    title: Phones
-    text: >
-      +1 (202) 555-014<br/>
-      +1 (202) 555-015
+
+sections:
+
 - type: paragraph.html
   section_id: help
-  title: Get some help!
   text: >+
-    There is a quick reference and showscase of Markdown Syntax Here:
+    ***[@studentidisinistra su Instagram](https://www.instagram.com/studentidisinistra/)***
 
-    * [Markdown Syntax Here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+    * [Sito Web Prenotazione Aule](https://kairos.unifi.it/agendaweb/)
 
-    * [John Gruber's original spec](http://daringfireball.net/projects/markdown/).
+    * [Crowdfunding - Ecce è...](https://bit.ly/2FWdyLT)
 
-    * [Github-flavored Markdown info page](http://github.github.com/github-flavored-markdown/).
+    * [Canale Telegram di Informazione per le Studentesse e gli Studenti UniFi](http://t.me/altra_unifi)
 
-- type: paragraph.html
-  section_id: more-to-come
-  title: No HTML!
-#  background_style: bg-info
-#  text_style: text-left text-white
-  actions:
-   - title: Markdown is fun!
-     class: btn-info
-     url: '#'
-  text: >+
-    ### Typographic replacements
+    * [CatBox - Cloud](https://cloud.lilik.it/)
 
-    Enable typographer option to see result.
+    * [Gruppo Whatsapp Beneficiari/e di Borsa di Studio](https://chat.whatsapp.com/ICEXk6V9dAD08RMhrdzI6f)
 
-    (c) (C) (r) (R) (tm) (TM) (p) (P) +-
+    * [Moduli rimborso biglietti e abbonamenti](https://m.facebook.com/story.php?story_fbid=2886353578259012&id=1595192887375094)
 
-    test.. test... test..... test?..... test!....
+    * [Crowdfunding Firenze Antifascista](https://www.gofundme.com/f/45000-buoni-motivi-per-essere-antifascisti?utm_source=customer&utm_campaign=p_cp+share-sheet&utm_medium=copy_link-tip)
 
-    !!!!!! ???? ,,  -- ---
+    * [AULA STUDIO: Pre-iscrizione ARCI CLPP](https://portale.arci.it/preadesione/porta-al-prato/)
 
-    "Smartypants, double quotes" and 'single quotes'
+    * [Nuovo Bando Borse di Studio e Alloggi 2020/2021](http://cloud.lilik.it/s/4fDCBZpQoisggJi)
 
+    * [Academia Against Racism - Appello alla Comunità Accademica](https://docs.google.com/forms/d/e/1FAIpQLSf3x5Qkvm4AGCgAU2VOEL05yUVoUPcPSGR_mtsdMbPMcrb6hA/viewform)
 
-    ### Emphasis
+    * [LiberLiber](https://www.liberliber.it/online/opere/libri/argomento/epub/)
 
-    **This is bold text**
+    * [Progetto Gutenberg](http://www.gutenberg.org/browse/languages/it)
 
-    __This is bold text__
+    * [Ebook Gratis - WuMing](https://www.wumingfoundation.com/giap/nuova-area-download-libri-elettronici-ai-proletari-ebook/)
 
-    *This is italic text*
+    * [Open Culture - Film, libri, corsi online](http://www.openculture.com/)
 
-    _This is italic text_
+    * [Corsi Online MoMa](https://www.moma.org/research-and-learning/classes)
 
-    ~~Strikethrough~~
+    * [Radio Garden](http://radio.garden/)
 
+    * [Cineteca Militante](https://www.videotecadiclasse.co/)
 
-    ### Blockquotes
+    * [Canale Telegram Libri/Articoli Femministi](https://t.me/booksfem)
 
-    > Blockquotes can also be nested...
-    >> ...by using additional greater-than signs right next to each other...
-    > > > ...or with spaces between arrows.
+    * [Nessun Inverno Dura - Audiolibro](https://www.youtube.com/channel/UCXr3r0hx9IFsp9TOBvDYbtg)
 
-    ### Lists
+    * [Pistoia 1944 - Una Storia Partigiana](https://youtu.be/ThboNAXCXGA?autoplay=1&mute=0)
 
-    Unordered
-
-    + Create a list by starting a line with `+`, `-`, or `*`
-    + Sub-lists are made by indenting 2 spaces:
-    - Marker character change forces new list start:
-      * Ac tristique libero volutpat at
-      + Facilisis in pretium nisl aliquet
-      - Nulla volutpat aliquam velit
-    + Very easy!
-
-    Ordered
-
-    1. Lorem ipsum dolor sit amet
-    2. Consectetur adipiscing elit
-    3. Integer molestie lorem at massa -->
+    * [Secret Hitler Online](https://secrethitler.io/)
 
 ---
-Qui inseriremo i nostri link vari per renderli facilmente raggiungibili da Instagram e altri social.
