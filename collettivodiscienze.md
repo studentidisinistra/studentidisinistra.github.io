@@ -21,7 +21,7 @@ sections:
     section_id: contatti
     title: Trovaci sui social!
     text: >-
-      Puoi trovare Collettivo di Scienze è su facebook, instagram e scriverci per email.
+      Puoi trovare Collettivo di Scienze su facebook, instagram e scriverci per email.
     #Clicca anche sui loghi dei collettivi per scoprire di più, trovare le loro pagine e contatti.
     actions:
     - title: E-Mail
