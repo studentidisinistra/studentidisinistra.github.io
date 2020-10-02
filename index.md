@@ -1,4 +1,6 @@
 ---
+#Devo cancellare gli asset inutili
+#correggere i commenti dei vecchi commit che fanno pena
 layout: home
 header:
   title: Benvenutə sul nuovo sito di Studenti di Sinistra!
@@ -30,7 +32,7 @@ sections:
         image: assets/img/members/malpolo.png
         url: '#'
       - title: Scienze
-        text: Collettivo della scuola di Scienze Matematiche, Fisiche e Naturali
+        text: <a href="./collettivodiscienze" target="_top">Collettivo della scuola di Scienze Matematiche, Fisiche e Naturali</a>
         image: assets/img/members/scienze.png
         url: '#'
       - title: Sestograd

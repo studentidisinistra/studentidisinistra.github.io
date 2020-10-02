@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Link di studentidisinistra
+title: Link di studenti di sinistra
 #background_style: bg-info
 #background_image: url('assets/img/backgrounds/image-from-rawpixel-id-1199650-jpeg.jpg')
 # Add a link to the the top menu
