@@ -22,9 +22,6 @@ sections:
       Puoi trovare Collettivo di Scienze su facebook, instagram e scriverci per email.
 
     actions:
-    - title: E-Mail
-      icon: fa-envelope
-      url: mailto:scienzecollettivo@gmail.com
     - title: Facebook
       icon: fa-facebook
       icon_type: fab
@@ -33,6 +30,9 @@ sections:
       icon: fa-instagram
       icon_type: fab
       url: 'https://www.instagram.com/collettivo.di.scienze/'
+    - title: E-Mail
+      icon: fa-envelope
+      url: mailto:scienzecollettivo@gmail.com
 # inserire un'immagine con link
 #      <a href="./collettivodiscienze">
 #         <img src="assets/img/members/scienze.png">
