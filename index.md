@@ -32,9 +32,9 @@ sections:
         image: assets/img/members/malpolo.png
         url: '#'
       - title: Scienze
-        text: <a href="./collettivodiscienze" target="_top">Collettivo della scuola di Scienze Matematiche, Fisiche e Naturali</a>
+        text: Collettivo della Scuola di Scienze Matematiche, Fisiche e Naturali
         image: assets/img/members/scienze.png
-        url: '#'
+        url: './collettivodiscienze'
       - title: Sestograd
         text: Collettivo del Polo Scientifico di Sesto Fiorentino
         image: assets/img/members/sestograd.png
