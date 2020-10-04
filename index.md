@@ -30,7 +30,7 @@ sections:
       - title: Rosso Malpolo
         text: Collettivo del Polo delle Scienze Sociali
         image: assets/img/members/malpolo.png
-        url: '#'
+        url: './in_costruzione'
       - title: Scienze
         text: Collettivo della Scuola di Scienze Matematiche, Fisiche e Naturali
         image: assets/img/members/scienze.png
@@ -38,27 +38,27 @@ sections:
       - title: Sestograd
         text: Collettivo del Polo Scientifico di Sesto Fiorentino
         image: assets/img/members/sestograd.png
-        url: '#'
+        url: './in_costruzione'
       - title: Filo da Torcere
         text: collettivo d'Ingegneria
         image: assets/img/members/ingegneria.png
-        url: '#'
+        url: './in_costruzione'
       - title: Codice Rosso
         text: Collettivo di Medicina
         image: assets/img/members/codrosso.png
-        url: '#'
+        url: './in_costruzione'
       - title: Ark
         text: Collettivo di Architettura
         image: assets/img/members/ark.png
-        url: '#'
+        url: './in_costruzione'
       - title: Laboratorio 15
         text: Collettivo di Psicologia
         image: assets/img/members/lab15.png
-        url: '#'
+        url: './in_costruzione'
       - title: CUMA
         text: Collettivo Umanistico
         image: assets/img/members/cuma.png
-        url: '#'
+        url: './in_costruzione'
 
   - type: contact.html
     section_id: contatti
