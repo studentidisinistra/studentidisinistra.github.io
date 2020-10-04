@@ -11,6 +11,15 @@ menus:
 
 sections:
   - type: call-to-action.html
+    section_id: post3
+    background_style: bg-light
+    title: 2020-10-04 Aggiunti link cliccabili alle pagine dei collettivi, piccoli miglioramenti al codice
+    text:  Tra poco saranno online le pagine dei collettivi, per ora è in prova solo quella di Scienze, le altre rimandano a una generica pagina di prova.
+    actions:
+      - title: notizie precedenti
+        url: '#post2'
+        class: btn-light
+  - type: call-to-action.html
     section_id: post2
     background_style: bg-info
     title: 2020-09-24 Aggiunti link e nuove sezioni
