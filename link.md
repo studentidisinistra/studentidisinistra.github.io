@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Links
+title: Link
 #background_style: bg-info
 #background_image: url('assets/img/backgrounds/image-from-rawpixel-id-1199650-jpeg.jpg')
 # Add a link to the the top menu
@@ -17,19 +17,19 @@ sections:
   text: >+
     Qui inseriremo i nostri link vari per renderli facilmente raggiungibili da Instagram e altri social.
 
-    * [Studenti di Sinistra](links_sds)
+    * [Studenti di Sinistra](link_sds)
 
-    * [Malpolo](links_malpolo)
+    * [Malpolo](link_malpolo)
 
-    * [Scienze](links_scienze)
+    * [Scienze](link_scienze)
 
-    * [Filo da Torcere](links_filodatorcere)
+    * [Filo da Torcere](link_filodatorcere)
 
-    * [CUMA](links_cuma)
+    * [CUMA](link_cuma)
 
-    * [Lab15](links_lab15)
+    * [Lab15](link_lab15)
 
-    * [Codice Rosso](links_codicerosso)
+    * [Codice Rosso](link_codicerosso)
 
-    * [Ark](links_ark)
+    * [Ark](link_ark)
 ---

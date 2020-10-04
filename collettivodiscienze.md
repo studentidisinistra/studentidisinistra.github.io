@@ -1,6 +1,4 @@
 ---
-#Devo cancellare gli asset inutili
-#correggere i commenti dei vecchi commit che fanno pena
 layout: page
 title: Benvenutə sulla pagina del Collettivo di Scienze
 
@@ -22,7 +20,7 @@ sections:
     title: Trovaci sui social!
     text: >-
       Puoi trovare Collettivo di Scienze su facebook, instagram e scriverci per email.
-    #Clicca anche sui loghi dei collettivi per scoprire di più, trovare le loro pagine e contatti.
+
     actions:
     - title: E-Mail
       icon: fa-envelope
@@ -35,15 +33,8 @@ sections:
       icon: fa-instagram
       icon_type: fab
       url: 'https://www.instagram.com/collettivo.di.scienze/'
-
-# TORNA SU A FINE PAGINA
-#  - type: slimbutton.html
-#    section_id: tornaincima
-#    background_style: bg-info
-#    title:
-#    text:
-#    actions:
-#      - title: Torna in Cima
-#        url: '#page-top'
-#        class: btn-light
+# inserire un'immagine con link
+#      <a href="./collettivodiscienze">
+#         <img src="assets/img/members/scienze.png">
+#      </a>
 ---
