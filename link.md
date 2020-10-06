@@ -33,3 +33,41 @@ sections:
 
     * [Ark](link_ark)
 ---
+<!--
+- type: portfolio.html
+  # this section has always ID 'portfolio'
+  #section_id: portfolio
+  #background_style: bg-dark
+  projects:
+    - title: StudentidiSinistra
+      text: This is a very short project description.
+      # the images are located in:
+      # img/portfolio/fullsize
+      # img/portfolio/thumbnails
+      icon: sds.png
+      url: 'link_sds'
+    - title: Malpolo
+      text: This is a very short project description.
+      icon: malpolo.png
+      url: '#'
+    - title: Filo da Torcere
+      text: This is a very short project description.
+      icon: ingegneria.png
+      url: '#'
+    - title: Codice Rosso
+      text: This is a very short project description.
+      icon: codrosso.png
+      url: '#'
+    - title: Ark
+      text: This is a very short project description.
+      icon: ark.png
+      url: '#'
+    - title: Laboratorio 15
+      text: This is a very short project description.
+      icon: lab15.png
+      url: '#'
+    - title: CUMA
+      text: This is a very short project description.
+      icon: cuma.png
+      url: '#'
+-->
