@@ -17,9 +17,9 @@ sections:
 
   - type: contact.html
     section_id: contatti
-    title: Trovaci sui social!
+    title: Trovaci sui social, oppure vieni a trovarci!
     text: >-
-      Puoi trovare Collettivo di Scienze su facebook, instagram e scriverci per email.
+      Puoi trovare Collettivo di Scienze su facebook, instagram e scriverci per email, oppure tutti i martedì alle 17:30 al circolo ARCI in Via delle Porte Nuove
 
     actions:
     - title: Facebook
@@ -33,6 +33,9 @@ sections:
     - title: E-Mail
       icon: fa-envelope
       url: mailto:scienzecollettivo@gmail.com
+    - title: Vieni a trovarci!
+      icon: fa-users
+      url: 'https://www.arcifirenze.it/circoli/circolo-ricreativo-tra-i-lavoratori-di-porta-al-prato/'
 # inserire un'immagine con link
 #      <a href="./collettivodiscienze">
 #         <img src="assets/img/members/scienze.png">
