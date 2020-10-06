@@ -34,6 +34,7 @@ sections:
     * [Ark](link_ark)
 ---
 <!--
+#ho nascosto questo pezzo perché per ora non funziona
 - type: portfolio.html
   # this section has always ID 'portfolio'
   #section_id: portfolio
