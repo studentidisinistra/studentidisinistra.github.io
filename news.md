@@ -11,8 +11,17 @@ menus:
 
 sections:
   - type: call-to-action.html
+    section_id: post4
+    background_style: bg-info
+    title: 2020-10-06 Aggiunta la pagina per le controguide
+    text:  In preparazione per l'uscita delle controguide dell'anno 20/21 abbiamo inserito una pagina per ospitarle qui sul sito e la trovate al link [Controguide](controguide) e nel menù.
+    actions:
+      - title: notizie precedenti
+        url: '#post3'
+        class: btn-light
+  - type: call-to-action.html
     section_id: post3
-    background_style: bg-light
+    background_style: bg-secondary
     title: 2020-10-04 Aggiunti link cliccabili alle pagine dei collettivi, piccoli miglioramenti al codice
     text:  Tra poco saranno online le pagine dei collettivi, per ora è in prova solo quella di Scienze, le altre rimandano a una generica pagina di prova.
     actions:
