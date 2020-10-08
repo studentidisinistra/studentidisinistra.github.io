@@ -16,6 +16,3 @@ sections:
         url: 'https://studentidisinistra.it/iniziative/sopravvivenzadalbasso/controguide'
         class: btn-light
 ---
-<a href="https://studentidisinistra.it/iniziative/sopravvivenzadalbasso/controguide/sds20">Controguida di Ateneo 2020 a cura di SdS</a>
-<a href="https://studentidisinistra.it/iniziative/sopravvivenzadalbasso/controguide/lab15_20">Controguida di Psicologia 2020 a cura del collettivo Laboratorio 15</a>
-<a href="https://studentidisinistra.it/iniziative/sopravvivenzadalbasso/controguide/scienze19">Controguida di Scienze 2019 a cura del Collettivo di Scienze</a>
