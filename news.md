@@ -32,7 +32,7 @@ sections:
     section_id: post2
     background_style: bg-info
     title: 2020-09-24 Aggiunti link e nuove sezioni
-    text:  Stiamo sperimentando la sezione link che sostituirà i linktree dei nostri account instagram, per ora è in prova solo per collettivo di scienze e lo trovate [qui](links_scienze). Inoltre è presente una pagina, per ora molto minimal, dedicata a [CatBox](catbox), con integrazione per mandarci direttamente un'email per richiedere le credenziali di accesso.
+    text:  Stiamo sperimentando la sezione link che sostituirà i linktree dei nostri account instagram, per ora è in prova solo per collettivo di scienze e lo trovate [qui](links_scienze). Inoltre è presente una pagina, per ora molto minimal, dedicata a [CatBox](/iniziative/sopravvivenzadalbasso/catbox), con integrazione per mandarci direttamente un'email per richiedere le credenziali di accesso.
     actions:
       - title: notizie precedenti
         url: '#post1'
