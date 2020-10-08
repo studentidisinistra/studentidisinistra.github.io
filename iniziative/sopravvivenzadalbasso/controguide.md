@@ -13,7 +13,7 @@ sections:
 
     actions:
       - title: Torna alla Home
-        url: './'
+        url: 'https://studentidisinistra.it/iniziative/sopravvivenzadalbasso/controguide'
         class: btn-light
 ---
 <a href="https://studentidisinistra.it/iniziative/sopravvivenzadalbasso/controguide/sds20">Controguida di Ateneo 2020 a cura di SdS</a>
