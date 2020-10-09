@@ -11,6 +11,14 @@ menus:
 
 sections:
   - type: call-to-action.html
+    section_id: post5
+    background_style: bg-secondary
+    title: 2020-10-09 Arrivano le controguide con una sezione dedicata e alcuni miglioramenti grafici al sito
+    actions:
+      - title: notizie precedenti
+        url: '#post4'
+        class: btn-light
+  - type: call-to-action.html
     section_id: post4
     background_style: bg-info
     title: 2020-10-06 Aggiunta la pagina per le controguide
