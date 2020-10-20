@@ -9,7 +9,7 @@ sections:
   - type: members.html
     section_id: controguide
     title: Sfoglia online e scarica le controguide.
-    #Cosa sono le controguide?  <br /> Sono dei piccoli libriccini che raccolgono informazioni utili sulla vita all'università, consigli, divertenti aneddoti e informazioni su SdS, i Collettivi e le nostre attività!  <br /> 
+    #Cosa sono le controguide?  <br /> Sono dei piccoli libriccini che raccolgono informazioni utili sulla vita all'università, consigli, divertenti aneddoti e informazioni su SdS, i Collettivi e le nostre attività!  <br />
     background_style: bg-info text-white
     members:
       - title: Controguida di Ateneo 2020
