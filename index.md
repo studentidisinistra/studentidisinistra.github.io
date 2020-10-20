@@ -46,11 +46,11 @@ sections:
       - title: Codice Rosso
         text: Collettivo di Medicina
         image: assets/img/members/codrosso.png
-        url: './in_costruzione'
+        url: './codrosso'
       - title: Ark
         text: Collettivo di Architettura
         image: assets/img/members/ark.png
-        url: './in_costruzione'
+        url: './ark'
       - title: Laboratorio 15
         text: Collettivo di Psicologia
         image: assets/img/members/lab15.png
