@@ -11,6 +11,15 @@ menus:
 
 sections:
   - type: call-to-action.html
+    section_id: post6
+    background_style: bg-info
+    title: 2020-10-20 Aggiunte le pagine di codice rosso e ark
+    text:  Stiamo aggiungendo le pagine dei vari collettivi, ad oggi sono disponibili, oltre a scienze, le pagine di Ark e Codice Rosso, presto arriveranno anche le altre!
+    actions:
+      - title: notizie precedenti
+        url: '#post5'
+        class: btn-light
+  - type: call-to-action.html
     section_id: post5
     background_style: bg-secondary
     title: 2020-10-09 Arrivano le controguide con una sezione dedicata e alcuni miglioramenti grafici al sito
