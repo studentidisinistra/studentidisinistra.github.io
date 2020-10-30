@@ -42,7 +42,7 @@ sections:
       - title: Filo da Torcere
         text: collettivo d'Ingegneria
         image: assets/img/members/ingegneria.png
-        url: './in_costruzione'
+        url: './filodatorcere'
       - title: Codice Rosso
         text: Collettivo di Medicina
         image: assets/img/members/codrosso.png
@@ -58,7 +58,7 @@ sections:
       - title: CUMA
         text: Collettivo Umanistico
         image: assets/img/members/cuma.png
-        url: './in_costruzione'
+        url: './cuma'
 
   - type: contact.html
     section_id: contatti
