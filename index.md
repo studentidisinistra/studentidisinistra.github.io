@@ -30,7 +30,7 @@ sections:
       - title: Rosso Malpolo
         text: Collettivo del Polo delle Scienze Sociali
         image: assets/img/members/malpolo.png
-        url: './in_costruzione'
+        url: './malpolo'
       - title: Scienze
         text: Collettivo della Scuola di Scienze Matematiche, Fisiche e Naturali
         image: assets/img/members/scienze.png
