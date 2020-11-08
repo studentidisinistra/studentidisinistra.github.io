@@ -11,6 +11,14 @@ menus:
 
 sections:
   - type: call-to-action.html
+    section_id: post7
+    background_style: bg-secondary
+    title: 2020-11-09 Aggiunta la pagina del Collettivo Rosso MalPolo!
+    actions:
+      - title: notizie precedenti
+        url: '#post6'
+        class: btn-light
+  - type: call-to-action.html
     section_id: post6
     background_style: bg-info
     title: 2020-10-20 Aggiunte le pagine di codice rosso e ark
