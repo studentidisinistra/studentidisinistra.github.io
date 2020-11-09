@@ -11,9 +11,18 @@ menus:
 
 sections:
   - type: call-to-action.html
+    section_id: post8
+    background_style: bg-info
+    title: 2020-11-09 È online la controguida di medicina del Collettivo Codice Rosso!
+    text: Dai subito un'occhiata [qui](./iniziative/sopravvivenzadalbasso/controguide/codrosso20)
+    actions:
+      - title: notizie precedenti
+        url: '#post7'
+        class: btn-light
+  - type: call-to-action.html
     section_id: post7
     background_style: bg-secondary
-    title: 2020-11-09 Aggiunta la pagina del Collettivo Rosso MalPolo!
+    title: 2020-11-08 Aggiunta la pagina del Collettivo Rosso MalPolo!
     actions:
       - title: notizie precedenti
         url: '#post6'

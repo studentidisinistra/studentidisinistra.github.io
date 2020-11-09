@@ -24,5 +24,8 @@ sections:
         text: a cura di Collettivo di Scienze
         image: /iniziative/sopravvivenzadalbasso/controguide/asset/scienze.png
         url: '/iniziative/sopravvivenzadalbasso/controguide/scienze20'
-
+      - title: Controguida di Medicina 2020
+        text: a cura del Collettivo Codice Rosso
+        image: /iniziative/sopravvivenzadalbasso/controguide/asset/codrosso.png
+        url: '/iniziative/sopravvivenzadalbasso/controguide/codrosso20'
 ---
