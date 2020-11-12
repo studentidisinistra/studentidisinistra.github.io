@@ -7,7 +7,7 @@ layout: empty
 <head>  
     <title>HTML Redirect</title>  
     <meta http-equiv="refresh"
-        content="3; url = https://cloud.lilik.it/s/MmaiHzzHetWE9pQ" />  
+        content="0; url = https://cloud.lilik.it/s/MmaiHzzHetWE9pQ" />  
 </head>  
 
 <body>  

@@ -1,9 +1,13 @@
+---
+layout: empty
+---
+
 <html>  
 
 <head>  
     <title>HTML Redirect</title>  
     <meta http-equiv="refresh"
-        content="3; url = https://cloud.lilik.it/s/f7WZZY8FeENTiBF" />  
+        content="0; url = https://cloud.lilik.it/s/f7WZZY8FeENTiBF" />  
 </head>  
 
 <body>  
