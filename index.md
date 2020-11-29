@@ -3,7 +3,7 @@
 #correggere i commenti dei vecchi commit che fanno pena
 layout: home
 header:
-  title: Benvenutə sul nuovo sito di Studenti di Sinistra!
+  title: Benvenutə su StudentidiSinistra.it
   text: >
     Studenti di Sinistra è la rete dei collettivi dell'Ateneo fiorentino, un'organizzazione politica attiva dal 1991, completamente indipendente da partiti e associazioni. Questo significa che, a differenza di altre liste universitarie, non abbiamo nessun finanziamento o aiuto economico alle spalle e dobbiamo cavarcela da solə nelle nostre iniziative. Vuol dire anche che quello che facciamo lo facciamo perché pensiamo sia giusto farlo, non come ‘gavetta’ per arrivare più in alto o per favorire questo o quell’altro partito o sindacato.
   action: # action button is optional but cool
@@ -38,7 +38,7 @@ sections:
       - title: Sestograd
         text: Collettivo del Polo Scientifico di Sesto Fiorentino
         image: assets/img/members/sestograd.png
-        url: './in_costruzione'
+        url: 'http://www.sestograd.org/'
       - title: Filo da Torcere
         text: collettivo d'Ingegneria
         image: assets/img/members/ingegneria.png
