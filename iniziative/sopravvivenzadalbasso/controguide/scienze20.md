@@ -1,10 +1,25 @@
 ---
 layout: empty
 ---
-<center>
-<object data="/iniziative/sopravvivenzadalbasso/controguide/scienze20.pdf" type="application/pdf" width="1280px" height="1280px">
-    <embed src="/iniziative/sopravvivenzadalbasso/controguide/scienze20.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://studentidisinistra.it/iniziative/sopravvivenzadalbasso/controguide/scienze20.pdf">Download PDF</a>.</p>
-  </embed>
-</object>
-</center>
+
+<html>  
+
+<head>  
+    <title>HTML Redirect</title>  
+    <meta http-equiv="refresh"
+        content="0; url = https://cloud.lilik.it/s/MmaiHzzHetWE9pQ" />  
+</head>  
+
+<body>  
+    <h1 style="text-align:center;color:orange;">  
+         Studenti di Sinistra  
+    </h1>  
+
+    <p style="text-align:center;">  
+        Ti stiamo reindirizzando su LILiK cloud per leggere la controguida
+        <br> <br>
+        <a href="https://cloud.lilik.it/s/MmaiHzzHetWE9pQ">Se il tuo browser non supporta il redirect, clicca qui</a>
+    </p>  
+</body>  
+
+</html>  
