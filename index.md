@@ -54,7 +54,7 @@ sections:
       - title: Laboratorio 15
         text: Collettivo di Psicologia
         image: assets/img/members/lab15.png
-        url: './in_costruzione'
+        url: './lab15'
       - title: CUMA
         text: Collettivo Umanistico
         image: assets/img/members/cuma.png

@@ -11,6 +11,15 @@ menus:
 
 sections:
   - type: call-to-action.html
+    section_id: post9
+    background_style: bg-secondary
+    title: 2020-11-29 Disponibile anche la pagina del collettivo Laboratorio 15!
+    text: La trovi [qui](./lab15)
+    actions:
+      - title: notizie precedenti
+        url: '#post8'
+        class: btn-light
+  - type: call-to-action.html
     section_id: post8
     background_style: bg-info
     title: 2020-11-09 È online la controguida di medicina del Collettivo Codice Rosso!

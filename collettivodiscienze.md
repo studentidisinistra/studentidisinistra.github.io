@@ -19,7 +19,7 @@ sections:
     section_id: contatti
     title: Trovaci sui social, oppure vieni a trovarci!
     text: >-
-      Puoi trovare Collettivo di Scienze su facebook, instagram e scriverci per email, oppure tutti i martedì alle 17:30 al circolo ARCI in Via delle Porte Nuove
+      Puoi trovare Collettivo di Scienze su facebook, instagram e scriverci per email, oppure tutti i martedì alle 17:30 in riunione online (scrivici per sapere come collegarti!). Appena sarà possibile torneremo al circolo ARCI in Via delle Porte Nuove e gradualmente nei nostri spazi universitari!
 
     actions:
     - title: Facebook
