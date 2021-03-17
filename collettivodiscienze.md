@@ -29,7 +29,7 @@ sections:
     - title: Instagram
       icon: fa-instagram
       icon_type: fab
-      url: 'https://www.instagram.com/collettivo.di.scienze/'
+      url: 'https://www.instagram.com/collettivodiscienze/'
     - title: E-Mail
       icon: fa-envelope
       url: mailto:scienzecollettivo@gmail.com
