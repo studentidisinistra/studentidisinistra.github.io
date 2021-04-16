@@ -2,24 +2,22 @@
 layout: page
 title: Uh-Oh! Non dovresti essere qui...
 
-background_image: url('assets/img/backgrounds/in_costruzione.png')
+background_image: url('/assets/img/backgrounds/Matrix.png')
 
 sections:
   - type: call-to-action.html
     section_id: about
     background_style: bg-primary
-    title: già che ci sei, che ti sei disturbat* ad arrivare fin qui, che ne diresti di imparare come amministrare il sito? scrivi a Barb di Collettivo di Scienze (link telegram qui sotto)
+    title: già che ti sei disturbat* a trovare questa pagina, che ne diresti di imparare come amministrare il sito? scrivi a Barb di Collettivo di Scienze (link telegram qui sotto)
     actions:
-      - title: Torna alla Home
-        url: './'
+      - title: No, voglio tornare a casa!
+        url: 'https://studentidisinistra.it/'
         class: btn-light
 
   - type: contact.html
     section_id: contatti
-    title: Trova la rete sui social!
+    title: Contatto Telegram di Barb
     text: >-
-      Studenti di Sinistra è attiva su facebook, instagram e telegram.
-    #Clicca anche sui loghi dei collettivi per scoprire di più, trovare le loro pagine e contatti.
     actions:
     - title: Telegram
       icon: fa-telegram
