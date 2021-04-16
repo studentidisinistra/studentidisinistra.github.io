@@ -7,7 +7,7 @@ background_image: url('/assets/img/backgrounds/Matrix.png')
 sections:
   - type: call-to-action.html
     section_id: about
-    background_style: bg-primary
+    background_style: bg-dark
     title: già che ti sei disturbat* a trovare questa pagina, che ne diresti di imparare come amministrare il sito? scrivi a Barb di Collettivo di Scienze (link telegram qui sotto)
     actions:
       - title: No, voglio tornare a casa!
