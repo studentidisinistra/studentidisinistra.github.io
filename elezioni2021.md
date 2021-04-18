@@ -3,12 +3,12 @@
 #correggere i commenti dei vecchi commit che fanno pena
 layout: home
 header:
-  title: ELEZIONI 2021 WORK IN PROGRESS!
+  title: ELEZIONI 2021
   text: >
-    A breve sarà online il programma elettorale per le elezioni del biennio 2021-2023
+    Puoi leggere il programma elettorale 2021 online: scopri perché votare Studenti di Sinistra e i Collettivi l´11 e 12 Maggio!
   action: # action button is optional but cool
-    label: torna alla home
-    url: './'
+    label: Sfoglia il Programma
+    url: 'https://cloud.lilik.it/s/8M3ctPa9oG5tnLi'
 
 
 sections:
