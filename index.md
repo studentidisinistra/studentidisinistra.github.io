@@ -3,7 +3,7 @@
 #correggere i commenti dei vecchi commit che fanno pena
 layout: home
 header:
-  title: Benvenutə           
+  title: Benvenutə su studentidisinistra.it!           
   text: >
   action: # action button is optional but cool
     label: Scopri di più
