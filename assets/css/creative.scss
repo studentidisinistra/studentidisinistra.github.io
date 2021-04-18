@@ -10060,12 +10060,12 @@ header.masthead {
 header.masthead h1 {
   font-size: 2.25rem;
 }
-@media (min-width: 2000px) { //992px
+@media (min-width: 1000px) { //992px
   header.masthead {
-    height: 100vh;
+    height: 100vh; //100vh accetta anche altezza abs in pixel, 100vh = altezza della home
     min-height: 40rem;
-    padding-top: 4.5rem;
-    padding-bottom: 0;
+    padding-top: 20rem; //4.5 questo controlla pos testo
+    padding-bottom: 20;
   }
   header.masthead p {
     font-size: 1.15rem;

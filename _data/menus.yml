@@ -3,6 +3,8 @@
 # However on github-pages custom plugins are disabled, and the script doesn't
 # run. So please, fill in any custom menu entry here.
 header:
+- title: Elezioni2021
+  url: /elezioni2021
 - title: About
   url: /#about
 - title: Collettivi
@@ -15,7 +17,7 @@ header:
 #  url: /#La Nostra Storia
 #- title: Contatti
 #  url: /#contatti
-- title: News
-  url: /news
-- title: Link
-  url: /link
+#- title: News
+#  url: /news
+#- title: Link
+#  url: /link
