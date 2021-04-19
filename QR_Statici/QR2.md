@@ -1,5 +1,5 @@
 ---
-layout: empty
+
 ---
 
 <html>  

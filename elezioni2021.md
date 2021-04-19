@@ -5,7 +5,7 @@ layout: home
 header:
   title: ELEZIONI 2021
   text: >
-    Puoi leggere il programma elettorale 2021 online: scopri perché votare Studenti di Sinistra e i Collettivi l´11 e 12 Maggio!
+    Leggi i programmi elettorali online: scopri perché votare Studenti di Sinistra e i Collettivi l´11 e 12 Maggio 2021!
   action: # action button is optional but cool
     label: Sfoglia il Programma
     url: 'https://cloud.lilik.it/s/8M3ctPa9oG5tnLi'
