@@ -13,25 +13,16 @@ sections:
 
 - type: paragraph.html
   section_id: help
-  title: Come Linktree, ma più bello!
+#  title: Come Linktree, ma più bello!
+  title: Raccolta dei Linktree di SdS e collettivi
   text: >+
     Qui inseriremo i nostri link vari per renderli facilmente raggiungibili da Instagram e altri social.
 
-    * [Studenti di Sinistra](link_sds)
+    * [Studenti di Sinistra](https://linktr.ee/studentidisinistra)
 
-    * [Malpolo](link_malpolo)
+    * [Collettivo di Scienze](https://linktr.ee/CollettivoDiScienze)
 
-    * [Scienze](link_scienze)
-
-    * [Filo da Torcere](link_filodatorcere)
-
-    * [CUMA](link_cuma)
-
-    * [Lab15](link_lab15)
-
-    * [Codice Rosso](link_codicerosso)
-
-    * [Ark](link_ark)
+    * [Salute psicologica Studentesca](https://cloud.lilik.it/s/XzDTewtcLRpdQPX)
 ---
 <!--
 #ho nascosto questo pezzo perché per ora non funziona
@@ -71,4 +62,24 @@ sections:
       text: This is a very short project description.
       icon: cuma.png
       url: '#'
+-->
+
+
+<!--
+#vecchia sintassi pre-Linktree
+* [Studenti di Sinistra](link_sds)
+
+* [Malpolo](link_malpolo)
+
+* [Scienze](link_scienze)
+
+* [Filo da Torcere](link_filodatorcere)
+
+* [CUMA](link_cuma)
+
+* [Lab15](link_lab15)
+
+* [Codice Rosso](link_codicerosso)
+
+* [Ark](link_ark)
 -->
