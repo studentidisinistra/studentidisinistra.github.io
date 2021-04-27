@@ -59,6 +59,7 @@ sections:
         image: assets/img/members/cuma.png
         url: './cuma'
 
+
   - type: contact.html
     section_id: contatti
     title: Trova la rete sui social!
