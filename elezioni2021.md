@@ -20,8 +20,8 @@ sections:
         text: collettivo di psicologia
         image: /elezioni2021/asset/lab15.png
         url: '/QR_Statici/P_L15'
-#      - title: Controguida di Scienze 2020
-#        text: a cura di Collettivo di Scienze
-#        image: /elezioni2021/asset/scienze.png
-#        url: '/QR_Statici/P_SCIE'
+      - title: Programma di Collettivo di Scienze
+        text: Programma elettorale del collettivo di SSMMFFNN
+        image: /elezioni2021/asset/scienze.png
+        url: '/QR_Statici/P_SCIE'
 ---
