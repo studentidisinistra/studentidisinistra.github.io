@@ -16,7 +16,11 @@ sections:
         text: coordinamento dei collettivi di ateneo
         image: /elezioni2021/asset/ateneo.png
         url: '/QR_Statici/P_SDS'
-      - title: Programma di Laboratorio 15
+      - title: In Sintesi: Programma di LAB15
+        text: collettivo di psicologia
+        image: /elezioni2021/asset/lab15_Sintesi.png
+        url: '/QR_Statici/P_L15_Sintesi'
+      - title: Programma di Laboratorio 15 (completo)
         text: collettivo di psicologia
         image: /elezioni2021/asset/lab15.png
         url: '/QR_Statici/P_L15'
