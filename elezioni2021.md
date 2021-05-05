@@ -14,7 +14,7 @@ sections:
     actions:
       - title: Vai ai programmi
         url: '#programmi'
-        class: btn-light
+        class: btn-success
       - title: Ricordami di votare
         url: 'https://news.sestograd.org/remindervoto'
         class: btn-warning
