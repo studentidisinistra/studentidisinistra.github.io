@@ -36,8 +36,8 @@ sections:
   - type: call-to-action.html
     section_id: ricordami
     background_style: bg-primary
-    title: Hai paura di dimenticarti di votare?
-    text: L’11 ed il 12 maggio 2021 si vota online per il rinnovo delle rappresentanza studentesche, se vuoi possiamo ricordarti noi farlo con un'email o un sms
+    title: Hai paura di dimenticarti di votare? Non Preoccuparti
+    text: Possiamo ricordartelo noi con un'email o un sms!
     actions:
       - title: Clicca qui
         url: 'https://news.sestograd.org/remindervoto'
