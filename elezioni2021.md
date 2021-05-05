@@ -29,7 +29,7 @@ sections:
         #text: coordinamento dei collettivi di ateneo
         image: /elezioni2021/asset/ateneo.png
         url: '/QR_Statici/P_SDS'
-      - title: In sintesi; presentazione e programma del collettivo LAB15
+      - title: In sintesi; presentazione e programma del collettivo Laboratorio 15
         #text: collettivo di psicologia
         image: /elezioni2021/asset/lab15_Sintesi.png
         url: '/QR_Statici/P_L15_Sintesi'
