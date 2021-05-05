@@ -19,7 +19,7 @@ sections:
         url: '#programmi'
         class: btn-light
 
-  - type: members.html
+  - type: members2.html
     section_id: programmi
     title: Programmi Elettorali 2021-2023
     #Cosa sono le controguide?  <br /> Sono dei piccoli libriccini che raccolgono informazioni utili sulla vita all'università, consigli, divertenti aneddoti e informazioni su SdS, i Collettivi e le nostre attività!  <br />
