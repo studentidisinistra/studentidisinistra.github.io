@@ -32,4 +32,14 @@ sections:
         text: Programma elettorale del Collettivo Umanistico
         image: /elezioni2021/asset/cuma.png
         url: '/QR_Statici/P_CUMA'
+
+  - type: call-to-action.html
+    section_id: ricordami
+    background_style: bg-secondary
+    title: Hai paura di dimenticarti di votare?
+    text: L’11 ed il 12 maggio 2021 si vota online per il rinnovo delle rappresentanza studentesche, se vuoi possiamo ricordarti noi farlo con un'email o un sms
+    actions:
+      - title: Clicca qui
+        url: 'https://news.sestograd.org/remindervoto'
+        class: btn-light
 ---
