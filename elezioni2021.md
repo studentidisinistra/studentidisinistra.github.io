@@ -9,7 +9,7 @@ sections:
   - type: call-to-action.html
     section_id: ricordami
     background_style: bg-primary
-    title: Leggi i programmi elettorali online e scopri perché votare Studenti di Sinistra e i Collettivi l´11 e 12 Maggio 2021! <br /> <br /> Hai paura di dimenticarti di votare? Non Preoccuparti, te lo riordiamo noi!
+    title: Leggi i programmi elettorali online e scopri perché votare Studenti di Sinistra e i Collettivi l´11 e 12 Maggio 2021! <br /> <br /> Hai paura di dimenticarti di votare? Non Preoccuparti, te lo ricordiamo noi!
     text:
     actions:
       - title: Ricordami di votare
