@@ -28,4 +28,8 @@ sections:
         text: Programma elettorale del collettivo di SSMMFFNN
         image: /elezioni2021/asset/scienze.png
         url: '/QR_Statici/P_SCIE'
+      - title: Programma di CUMA
+        text: Programma elettorale del Collettivo Umanistico
+        image: /elezioni2021/asset/cuma.png
+        url: '/QR_Statici/P_CUMA'
 ---
