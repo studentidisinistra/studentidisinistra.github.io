@@ -9,7 +9,7 @@ sections:
   - type: call-to-action.html
     section_id: ricordami
     background_style: bg-primary
-    title: Hai paura di dimenticarti di votare? <br/>  <br/> Non Preoccuparti, te lo riordiamo noi!
+    title: Leggi i programmi elettorali online e scopri perché votare Studenti di Sinistra e i Collettivi l´11 e 12 Maggio 2021! <br /> <br /> Hai paura di dimenticarti di votare? Non Preoccuparti, te lo riordiamo noi!
     text:
     actions:
       - title: Ricordami di votare
@@ -21,7 +21,7 @@ sections:
 
   - type: members.html
     section_id: programmi
-    title: Leggi i programmi elettorali online e scopri perché votare Studenti di Sinistra e i Collettivi l´11 e 12 Maggio 2021!
+    #title: Leggi i programmi elettorali online e scopri perché votare Studenti di Sinistra e i Collettivi l´11 e 12 Maggio 2021!
     #Cosa sono le controguide?  <br /> Sono dei piccoli libriccini che raccolgono informazioni utili sulla vita all'università, consigli, divertenti aneddoti e informazioni su SdS, i Collettivi e le nostre attività!  <br />
     background_style: bg-info text-white
     members:
