@@ -36,8 +36,8 @@ sections:
   - type: call-to-action.html
     section_id: ricordami
     background_style: bg-primary
-    title: Hai paura di dimenticarti di votare? Non Preoccuparti
-    text: Possiamo ricordartelo noi con un'email o un sms!
+    title: Hai paura di dimenticarti di votare? <br/>  <br/> Non Preoccuparti, te lo riordiamo noi con un'email o un sms!
+    text:
     actions:
       - title: Clicca qui
         url: 'https://news.sestograd.org/remindervoto'
