@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Programmi Elettorali 2021-2023
+title: Elezioni 2021
 
 #background_image: url('assets/img/backgrounds/in_costruzione.png')
 
@@ -21,7 +21,7 @@ sections:
 
   - type: members.html
     section_id: programmi
-    #title: Leggi i programmi elettorali online e scopri perché votare Studenti di Sinistra e i Collettivi l´11 e 12 Maggio 2021!
+    title: Programmi Elettorali 2021-2023
     #Cosa sono le controguide?  <br /> Sono dei piccoli libriccini che raccolgono informazioni utili sulla vita all'università, consigli, divertenti aneddoti e informazioni su SdS, i Collettivi e le nostre attività!  <br />
     background_style: bg-info text-white
     members:
