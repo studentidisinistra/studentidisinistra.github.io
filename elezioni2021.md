@@ -22,7 +22,7 @@ sections:
 #        url: 'https://www.dst.unifi.it/upload/sub/guida_al_voto_2.0.pdf'
 #        class: btn-dark
       - title: Pagina elezioni Unifi
-        url: 'https://www.unifi.it/p11979.html#quando_dove'
+        url: 'https://www.unifi.it/p11979.html'
         class: btn-secondary
 
   - type: members2.html
