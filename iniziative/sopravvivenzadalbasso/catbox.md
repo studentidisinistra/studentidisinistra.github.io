@@ -3,7 +3,7 @@ layout: page
 title: Scopri CatBox
 #background_style: bg-info
 #background_image: url('/assets/img/backgrounds/catbox-bg.png')
-background_image: url('/assets/img/backgrounds/scienze.png')
+background_image: url('/assets/img/backgrounds/catbox2.png')
 # Add a link to the the top menu
 menus:
   header:
