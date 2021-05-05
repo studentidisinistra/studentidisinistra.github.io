@@ -12,12 +12,18 @@ sections:
     title: Leggi i programmi elettorali online e scopri perché votare Studenti di Sinistra e i Collettivi l´11 e 12 Maggio 2021! <br /> <br /> Hai paura di dimenticarti di votare? Non Preoccuparti, te lo ricordiamo noi!
     text:
     actions:
-      - title: Ricordami di votare
-        url: 'https://news.sestograd.org/remindervoto'
-        class: btn-light
       - title: Vai ai programmi
         url: '#programmi'
         class: btn-light
+      - title: Ricordami di votare
+        url: 'https://news.sestograd.org/remindervoto'
+        class: btn-warning
+      - title: Come votare
+        url: 'https://www.dst.unifi.it/upload/sub/guida_al_voto_2.0.pdf'
+        class: btn-secondary
+      - title: Pagina elezioni Unifi
+        url: 'https://www.unifi.it/p11979.html#quando_dove'
+        class: btn-dark
 
   - type: members2.html
     section_id: programmi
