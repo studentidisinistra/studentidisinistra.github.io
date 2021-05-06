@@ -18,9 +18,9 @@ sections:
       - title: Ricordami di votare
         url: 'https://news.sestograd.org/remindervoto'
         class: btn-warning
-#      - title: Come votare
-#        url: 'https://www.dst.unifi.it/upload/sub/guida_al_voto_2.0.pdf'
-#        class: btn-success
+      - title: Come votare
+        url: 'https://www.unifi.it/upload/sub/elezioni/studenti_2021_2023/guida_voto_eligo.pdf'
+        class: btn-success
       - title: Pagina elezioni Unifi
         url: 'https://www.unifi.it/p11979.html'
         class: btn-secondary
