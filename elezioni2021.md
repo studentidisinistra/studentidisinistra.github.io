@@ -20,7 +20,7 @@ sections:
         class: btn-warning
 #      - title: Come votare
 #        url: 'https://www.dst.unifi.it/upload/sub/guida_al_voto_2.0.pdf'
-#        class: btn-dark
+#        class: btn-success
       - title: Pagina elezioni Unifi
         url: 'https://www.unifi.it/p11979.html'
         class: btn-secondary
@@ -31,24 +31,24 @@ sections:
     #Cosa sono le controguide?  <br /> Sono dei piccoli libriccini che raccolgono informazioni utili sulla vita all'università, consigli, divertenti aneddoti e informazioni su SdS, i Collettivi e le nostre attività!  <br />
     background_style: bg-info text-white
     members:
-      - title: Programma di Studenti di Sinistra, coordinamento dei collettivi di ateneo
-        #text: coordinamento dei collettivi di ateneo
+      - title: Studenti di Sinistra (rete dei collettivi d'Ateneo)
+        text: programma elettorale
         image: /elezioni2021/asset/ateneo.png
         url: '/QR_Statici/P_SDS'
-      - title: In sintesi; presentazione e programma del collettivo Laboratorio 15
-        #text: collettivo di psicologia
+      - title: Collettivo di Psicologia Laboratorio15
+        text: programma elettorale in sintesi
         image: /elezioni2021/asset/lab15_Sintesi.png
         url: '/QR_Statici/P_L15_Sintesi'
-      - title: Programma completo del Colletivo di Psicologia Laboratorio 15
-        #text: collettivo di psicologia
+      - title: Collettivo di Psicologia Laboratorio15
+        text: programma elettorale esteso
         image: /elezioni2021/asset/lab15.png
         url: '/QR_Statici/P_L15'
-      - title: Programma del Collettivo di Scienze
-        #text: Programma elettorale del collettivo di SSMMFFNN
+      - title: Collettivo di Scienze
+        text: Programma elettorale
         image: /elezioni2021/asset/scienze.png
         url: '/QR_Statici/P_SCIE'
-      - title: Programma del Collettivo Umanistico CUMA
-        #text: Programma elettorale del Collettivo Umanistico
+      - title: CUMA - Collettivo Umanistico
+        text: Programma elettorale
         image: /elezioni2021/asset/cuma.png
         url: '/QR_Statici/P_CUMA'
 ---
