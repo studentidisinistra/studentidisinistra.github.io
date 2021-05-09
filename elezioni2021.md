@@ -24,6 +24,9 @@ sections:
       - title: Pagina elezioni Unifi
         url: 'https://www.unifi.it/p11979.html'
         class: btn-secondary
+      - title: Vota Ora!
+        url: 'https://unifi.evoting.it/login.aspx?id=1iGS16gjbPE%253d'
+        class: btn-danger
 
   - type: members2.html
     section_id: programmi
