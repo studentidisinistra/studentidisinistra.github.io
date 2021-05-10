@@ -4,7 +4,7 @@ title: Elezioni 2021
 
 #background_image: url('assets/img/backgrounds/in_costruzione.png')
 
-sections:
+#sections:
 
 #  - type: call-to-action.html
 #    section_id: votaora_old
@@ -21,17 +21,34 @@ sections:
 #        url: 'https://unifi.evoting.it/login.aspx?id=1iGS16gjbPE%253d'
 #        class: btn-success
 
-  - type: members2.html
-    section_id: votaora
-    title: Puoi votare martedì 11 dalle 9 alle 19 e mercoledì 12 maggio dalle 9 alle 18 su Eligo
-    background_style: bg-primary text-white
-    members:
-      - title: Qui sotto trovi anche la video-guida rapida al voto
-        text:
-        image: /elezioni2021/asset/votaora2.png
-        url: 'https://unifi.evoting.it/login.aspx?id=1iGS16gjbPE%253d'
+#  - type: members2.html
+#    section_id: votaora
+#    title: Puoi votare martedì 11 dalle 9 alle 19 e mercoledì 12 maggio dalle 9 alle 18 su Eligo
+#    background_style: bg-primary text-white
+#    members:
+#      - title: Qui sotto trovi anche la video-guida rapida al voto
+#        text:
+#        image: /elezioni2021/asset/votaora2.png
+#        url: 'https://unifi.evoting.it/login.aspx?id=1iGS16gjbPE%253d'
 
 ---
+
+<html>
+   <head>
+      <title>HTML Image as link</title>
+   </head>
+   <body>
+<!--      The following image works as a link:<br>
+--->
+      <a href="https://unifi.evoting.it/login.aspx?id=1iGS16gjbPE%253d">
+     <img src="https://studentidisinistra.it/elezioni2021/asset/votaora3.png" alt="votaora" class="embed-responsive">
+     </a>
+   </body>
+</html>
+
+
+<a href="https://www.unifi.it/upload/sub/elezioni/studenti_2021_2023/guida_voto_eligo.pdf">Clicca qui per la guida ufficiale in PDF</a>
+
 
 <html>
     <style>
