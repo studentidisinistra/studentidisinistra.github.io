@@ -13,10 +13,10 @@ sections:
     actions:
       - title: Vai ai programmi
         url: 'elezioni2021#programmi'
-        class: btn-warning
+        class: btn-succdess
       - title: Guida dettagliata (PDF)
         url: 'https://www.unifi.it/upload/sub/elezioni/studenti_2021_2023/guida_voto_eligo.pdf'
-        class: btn-success
+        class: btn-warning
       - title: VOTA ORA!
         url: 'https://unifi.evoting.it/login.aspx?id=1iGS16gjbPE%253d'
         class: btn-success
