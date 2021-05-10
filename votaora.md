@@ -1,6 +1,6 @@
 ---
 layout: page
-title:
+title: Elezioni 2021
 
 #background_image: url('assets/img/backgrounds/in_costruzione.png')
 
@@ -16,4 +16,26 @@ sections:
         class: btn-success
 
 ---
-<iframe width="960" height="540" src="https://www.youtube.com/embed/0hQ0MdKU_Ks?autoplay=1&loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay=1; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<html>
+    <style>
+      .wrap-element {
+        position: relative;
+        overflow: hidden;
+        padding-top: 56.25%;
+      }
+      .wrapped-iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        border: 0;
+      }
+    </style>
+  <body>
+    <div class="wrap-element">
+      <iframe class="wrapped-iframe" src="https://www.youtube.com/embed/0hQ0MdKU_Ks?autoplay=1&loop=1" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+    </div>
+  </body>
+</html>
