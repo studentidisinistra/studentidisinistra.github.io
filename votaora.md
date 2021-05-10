@@ -9,7 +9,7 @@ sections:
   - type: call-to-action.html
     section_id: votaora
     background_style: bg-primary
-    title: Qui sotto trovi la guida video per il voto; puoi votare martedì 11 dalle 9 alle 19 e mercoledì 12 maggio dalle 9 alle 18 su Eligo.
+    title: Qui sotto trovi la guida video per il voto <br/>  <br/> Puoi votare martedì 11 dalle 9 alle 19 e mercoledì 12 maggio dalle 9 alle 18 su Eligo
     actions:
       - title: VOTA ORA!
         url: 'https://unifi.evoting.it/login.aspx?id=1iGS16gjbPE%253d'
@@ -41,7 +41,7 @@ sections:
     </style>
   <body>
     <div class="wrap-element">
-      <iframe class="wrapped-iframe" src="https://www.youtube.com/embed/0hQ0MdKU_Ks?autoplay=1&loop=1&rel=0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+      <iframe class="wrapped-iframe" src="https://www.youtube.com/embed/0hQ0MdKU_Ks?rel=0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
     </div>
   </body>
 </html>
