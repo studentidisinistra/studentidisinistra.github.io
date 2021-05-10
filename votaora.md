@@ -46,12 +46,8 @@ title: Elezioni 2021
    </body>
 </html>
 
-
-Qui sotto trovi la guida video per il voto
 <br> <br>
-Puoi votare martedì 11 dalle 9 alle 19 e mercoledì 12 maggio dalle 9 alle 18 su Eligo
-<br> <br>
-<a href="https://www.unifi.it/upload/sub/elezioni/studenti_2021_2023/guida_voto_eligo.pdf">Clicca qui per la guida ufficiale in PDF</a>
+Qui sotto trovi la guida video per il voto, puoi votare martedì 11 dalle 9 alle 19 e mercoledì 12 maggio dalle 9 alle 18 su Eligo
 
 
 <html>
@@ -76,3 +72,6 @@ Puoi votare martedì 11 dalle 9 alle 19 e mercoledì 12 maggio dalle 9 alle 18 s
     </div>
   </body>
 </html>
+
+<br> <br>
+<a href="https://www.unifi.it/upload/sub/elezioni/studenti_2021_2023/guida_voto_eligo.pdf">Clicca qui per la guida ufficiale in PDF</a>
