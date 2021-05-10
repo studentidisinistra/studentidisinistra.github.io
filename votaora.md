@@ -13,7 +13,7 @@ sections:
     actions:
       - title: Vai ai programmi
         url: 'elezioni2021#programmi'
-        class: btn-succdess
+        class: btn-success
       - title: Guida dettagliata (PDF)
         url: 'https://www.unifi.it/upload/sub/elezioni/studenti_2021_2023/guida_voto_eligo.pdf'
         class: btn-warning
