@@ -27,7 +27,7 @@ sections:
 #      - title: Vota Ora!
 #        url: 'https://unifi.evoting.it/login.aspx?id=1iGS16gjbPE%253d'
 #        class: btn-danger
-      - title: Vota Ora!
+      - title: Guida al Voto
         url: '/votaora'
         class: btn-success
 

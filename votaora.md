@@ -11,14 +11,14 @@ sections:
     background_style: bg-primary
     title: Qui sotto trovi la guida video per il voto <br/>  <br/> Puoi votare martedì 11 dalle 9 alle 19 e mercoledì 12 maggio dalle 9 alle 18 su Eligo
     actions:
-      - title: VOTA ORA!
-        url: 'https://unifi.evoting.it/login.aspx?id=1iGS16gjbPE%253d'
-        class: btn-success
       - title: Vai ai programmi
         url: 'elezioni2021#programmi'
         class: btn-warning
       - title: Guida dettagliata (PDF)
         url: 'https://www.unifi.it/upload/sub/elezioni/studenti_2021_2023/guida_voto_eligo.pdf'
+        class: btn-success
+      - title: VOTA ORA!
+        url: 'https://unifi.evoting.it/login.aspx?id=1iGS16gjbPE%253d'
         class: btn-success
 
 ---
