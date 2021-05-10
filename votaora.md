@@ -26,7 +26,7 @@ sections:
     title: Puoi votare martedì 11 dalle 9 alle 19 e mercoledì 12 maggio dalle 9 alle 18 su Eligo
     background_style: bg-primary text-white
     members:
-      - title: qui sotto trovi anche video-guida rapida al voto
+      - title: Qui sotto trovi anche la video-guida rapida al voto
         text:
         image: /elezioni2021/asset/votaora2.png
         url: 'https://unifi.evoting.it/login.aspx?id=1iGS16gjbPE%253d'
@@ -51,7 +51,7 @@ sections:
     </style>
   <body>
     <div class="wrap-element">
-      <iframe class="wrapped-iframe" src="https://www.youtube.com/embed/S-sodvEjJ5k" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+      <iframe class="wrapped-iframe" src="https://www.youtube.com/embed/S-sodvEjJ5k?autoplay=1&loop=1&rel=0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
     </div>
   </body>
 </html>
