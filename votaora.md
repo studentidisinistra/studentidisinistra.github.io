@@ -41,7 +41,7 @@ sections:
     </style>
   <body>
     <div class="wrap-element">
-      <iframe class="wrapped-iframe" src="https://www.youtube.com/embed/0hQ0MdKU_Ks?rel=0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+      <iframe class="wrapped-iframe" src="https://www.youtube.com/embed/S-sodvEjJ5k" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
     </div>
   </body>
 </html>
