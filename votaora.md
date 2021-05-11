@@ -33,7 +33,7 @@ title: Elezioni 2021
 
 ---
 
-I seggi riaprono domattina alle 9, <br/>  <br/> clicca qui per ricevere un promemoria domani!
+I seggi riaprono domattina alle 9, clicca qui per ricevere un promemoria domani!
 
 <html>
    <head>
@@ -42,9 +42,10 @@ I seggi riaprono domattina alle 9, <br/>  <br/> clicca qui per ricevere un prome
    <body>
 <!--      The following image works as a link:<br>
 --->
-<!--      <a href="https://unifi.evoting.it/login.aspx?id=1iGS16gjbPE%253d">
+      <a href="https://unifi.evoting.it/login.aspx?id=1iGS16gjbPE%253d">
+
+<!--      <a href="https://studentidisinistra.it/reminder_voto">
 --->
-      <a href="https://studentidisinistra.it/reminder_voto">
      <img src="https://studentidisinistra.it/elezioni2021/asset/votaora3.png" alt="votaora" class="embed-responsive">
      </a>
    </body>
@@ -72,7 +73,7 @@ Qui sotto trovi la guida video per il voto, puoi votare martedì 11 dalle 9 alle
     </style>
   <body>
     <div class="wrap-element">
-      <iframe class="wrapped-iframe" src="https://www.youtube.com/embed/S-sodvEjJ5k?autoplay=1&loop=1&rel=0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+      <iframe class="wrapped-iframe" src="https://www.youtube.com/watch?v=0hQ0MdKU_Ks&loop=1&rel=0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
     </div>
   </body>
 </html>
