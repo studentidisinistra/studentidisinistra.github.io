@@ -32,8 +32,9 @@ title: Elezioni 2021
 #        url: 'https://unifi.evoting.it/login.aspx?id=1iGS16gjbPE%253d'
 
 ---
-
+<!--
 I seggi riaprono domattina alle 9, clicca qui per ricevere un promemoria domani!
+--->
 
 <html>
    <head>
