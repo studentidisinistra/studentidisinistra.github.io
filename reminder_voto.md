@@ -7,13 +7,13 @@ title: Elezioni 2021
 sections:
 
   - type: call-to-action.html
-    section_id: reminder
+    section_id: Grazie!
     background_style: bg-primary
-    title: I seggi riaprono domattina alle 9, <br/>  <br/> clicca qui per ricevere un promemoria domani!
+    title: Grazie per aver votato! i seggi sono chiusi
     actions:
-      - title: Mandami un promemoria
-        url: 'https://news.sestograd.org/remindervoto'
-        class: btn-success
+#      - title: Mandami un promemoria
+#        url: 'https://news.sestograd.org/remindervoto'
+#        class: btn-success
 #      - title: Guida dettagliata (PDF)
 #        url: 'https://www.unifi.it/upload/sub/elezioni/studenti_2021_2023/guida_voto_eligo.pdf'
 #        class: btn-warning
