@@ -42,11 +42,10 @@ I seggi riaprono domattina alle 9, clicca qui per ricevere un promemoria domani!
    <body>
 <!--      The following image works as a link:<br>
 --->
-<!--
       <a href="https://unifi.evoting.it/login.aspx?id=1iGS16gjbPE%253d">
---->
-      <a href="https://studentidisinistra.it/reminder_voto">
 
+<!--      <a href="https://studentidisinistra.it/reminder_voto">
+--->
      <img src="https://studentidisinistra.it/elezioni2021/asset/votaora3.png" alt="votaora" class="embed-responsive">
      </a>
    </body>
