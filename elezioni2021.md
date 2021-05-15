@@ -6,15 +6,15 @@ title: Elezioni 2021
 
 sections:
 
-  - type: call-to-action.html
-    section_id: ricordami
-    background_style: bg-primary
-    title: Leggi i programmi elettorali online per il biennio 2021-2023
-    text:
-    actions:
-      - title: Vai ai programmi
-        url: '#programmi'
-        class: btn-success
+#  - type: call-to-action.html
+#    section_id: ricordami
+#    background_style: bg-primary
+#    title: Leggi i programmi elettorali online per il biennio 2021-2023
+#    text:
+#    actions:
+#      - title: Vai ai programmi
+#        url: '#programmi'
+#        class: btn-success
 #      - title: Ricordami di votare
 #        url: 'https://news.sestograd.org/remindervoto'
 #        class: btn-warning
