@@ -7,7 +7,7 @@
 <head>  
     <title>HTML Redirect</title>  
     <meta http-equiv="refresh"
-        content="0; url = https://studentidisinistra.it/votaora" />  
+        content="0; url = https://studentidisinistra.it/elezioni2021" />  
 </head>  
 
 <body>  
@@ -18,7 +18,7 @@
     <p style="text-align:center;">  
         Ti stiamo reindirizzando al link richiesto
         <br> <br>
-        <a href="https://studentidisinistra.it/votaora">Se il tuo browser non supporta il redirect, clicca qui</a>
+        <a href="https://studentidisinistra.it/elezioni2021">Se il tuo browser non supporta il redirect, clicca qui</a>
     </p>  
 </body>  
 
