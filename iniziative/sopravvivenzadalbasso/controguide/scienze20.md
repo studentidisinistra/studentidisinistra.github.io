@@ -7,7 +7,7 @@
 <head>  
     <title>HTML Redirect</title>  
     <meta http-equiv="refresh"
-        content="0; url = https://cloud.lilik.it/s/AM4cCKiCXmw9jqc" />  
+        content="0; url = https://cloud.lilik.it/s/maJfFPPZtcmYNsM" />  
 </head>  
 
 <body>  
@@ -18,7 +18,7 @@
     <p style="text-align:center;">  
         Ti stiamo reindirizzando su LILiK cloud per leggere la controguida
         <br> <br>
-        <a href="https://cloud.lilik.it/s/AM4cCKiCXmw9jqc">Se il tuo browser non supporta il redirect, clicca qui</a>
+        <a href="https://cloud.lilik.it/s/maJfFPPZtcmYNsM">Se il tuo browser non supporta il redirect, clicca qui</a>
     </p>  
 </body>  
 
