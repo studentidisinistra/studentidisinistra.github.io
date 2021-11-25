@@ -12,6 +12,10 @@ sections:
     #Cosa sono le controguide?  <br /> Sono dei piccoli libriccini che raccolgono informazioni utili sulla vita all'università, consigli, divertenti aneddoti e informazioni su SdS, i Collettivi e le nostre attività!  <br />
     background_style: bg-info text-white
     members:
+      - title: Controguida di Scienze 2021
+        text: a cura di Collettivo di Scienze
+        image: /iniziative/sopravvivenzadalbasso/controguide/asset/scienze21.png
+        url: '/iniziative/sopravvivenzadalbasso/controguide/scienze21'
       - title: Controguida di Ateneo 2020
         text: a cura di SdS
         image: /iniziative/sopravvivenzadalbasso/controguide/asset/ateneo.png
