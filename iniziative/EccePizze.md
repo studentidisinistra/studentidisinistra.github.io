@@ -7,7 +7,7 @@ background_image: url('/iniziative/assets/img/EccePizze.jpg')
 sections:
 - type: paragraph.html
   section_id: EccePizze
-  title: EccePizze - Parte seconda
+  title: 🎥 EccePizze - Parte seconda
   text: >+
     Dopo una lunghissima sessione, sommersə da ansia, disperazione ed esami, torna finalmente "**EccePizze**" la rassegna cinematografica gratuita nel centro di Firenze, la città vetrina!
     <br><br>
@@ -15,11 +15,11 @@ sections:
     <br><br>
     Firenze è soprattutto di chi la vive tutti i giorni e per questo vogliamo continuare EccePizze anche durante il secondo semestre. I film verranno proiettati allo Spazio Alfieri per tuttə coloro che vorranno passare una serata al cinema in compagnia!
     <br><br>
-    ATTENZIONE! [Ecco il link per la prenotazione](https://www.eventbrite.it/e/biglietti-eccepizze-202122-secondo-tempo-265002057287?fbclid=IwAR2zz_nCUJwKdJdRi5ZaxGpGqPJUWUMJKnfF2EvbF8MyKi2l0qpuRgiSmMs): è un biglietto gratuito che ci permette di svolgere le operazioni di tracciamento.
+    📢ATTENZIONE📢 [Ecco il link per la prenotazione](https://www.eventbrite.it/e/biglietti-eccepizze-202122-secondo-tempo-265002057287?fbclid=IwAR2zz_nCUJwKdJdRi5ZaxGpGqPJUWUMJKnfF2EvbF8MyKi2l0qpuRgiSmMs): è un biglietto gratuito che ci permette di svolgere le operazioni di tracciamento.
     <br>
-    * [Evento Facebook](https://fb.me/e/27muREBOC)
+    (Qui trovi anche l'evento [Facebook](https://fb.me/e/27muREBOC))
     <br><br>
-    **Programma**
+    📅 **Programma**
     <br><br>
     **21 Febbraio**
     <br>
@@ -63,7 +63,7 @@ sections:
     <br>
     22.31 **The Milky Way**
     <br><br>
-    **Vi consigliamo di arrivare un po’ in anticipo per il controllo della prenotazione e del Green Pass (come da normative vigenti è indispensabile per entrare in sala). Buona visione!**
+    **Vi consigliamo di arrivare un po’ in anticipo per il controllo della prenotazione e del Green Pass (come da normative vigenti è indispensabile per entrare in sala). 🎬 Buona visione!**
 
 #il web developer e designer non ha idea di cosa stia facendo, quindi sbaglia, si incazza, beve un caffè e riprova.
 #si diverte, ma non chiedetegli cose troppo complicate perché è tanto se riesce a mettere i link e le immagini giuste
