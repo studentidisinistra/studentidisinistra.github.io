@@ -3,11 +3,14 @@
 #correggere i commenti dei vecchi commit che fanno pena
 layout: home
 header:
-  title: Benvenutə su studentidisinistra.it!           
-  text: >
+  #title: Benvenutə su studentidisinistra.it!
+  title: Sta Per tornare EccePizze           
+  text: la rassegna cinematografica gratuita di SdS!
   action: # action button is optional but cool
-    label: Scopri di più
-    url: '#about'
+    #label: Scopri di più
+    #url: '#about'
+    label: Scopri il Programma 21 Febbraio - 4 Aprile
+    url: '/iniziative/EccePizze'
 
 
 sections:
@@ -36,9 +39,9 @@ sections:
         image: assets/img/members/scienze.png
         url: './collettivodiscienze'
       - title: Sestograd
-        text: Collettivo del Polo Scientifico di Sesto Fiorentino
+        text: Archivio del vecchio sito del collettivo del Polo Scientifico di Sesto Fiorentino
         image: assets/img/members/sestograd.png
-        url: 'http://www.sestograd.org/'
+        url: 'http://web.archive.org/web/20140607202802/www.sestograd.org/'
       - title: Filo da Torcere
         text: collettivo d'Ingegneria
         image: assets/img/members/ingegneria.png
