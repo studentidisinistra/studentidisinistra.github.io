@@ -2,14 +2,14 @@
 layout: page
 title: Questa pagina è in costruzione
 
-background_image: url('assets/img/backgrounds/in_costruzione.png')
+background_image: url('/assets/img/backgrounds/in_costruzione.png')
 
 sections:
   - type: call-to-action.html
     section_id: about
     background_style: bg-primary
-    title: Le pagine dei collettivi saranno presto disponibili
-    text: Per ora dobbiamo decidere quali contenuti inserirci e in che forma, stay tuned!
+    title: La pagina del Laboratorio di teatri "EcceTheatre" su questo sito è in costruzione.
+    text: stay tuned!
     actions:
       - title: Torna alla Home
         url: './'
