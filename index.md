@@ -9,7 +9,7 @@ header:
   action: # action button is optional but cool
     #label: Scopri di più
     #url: '#about'
-    label: Scopri il Programma 21 Febbraio - 4 Aprile
+    label: Scopri subito il Programma e guarda i Trailer, 21 Febbraio - 4 Aprile
     url: '/iniziative/EccePizze'
 
 
