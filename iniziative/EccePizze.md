@@ -14,24 +14,11 @@ sections:
     - title: Prenota Subito
       url: 'https://www.eventbrite.it/e/biglietti-eccepizze-202122-secondo-tempo-265002057287?fbclid=IwAR2zz_nCUJwKdJdRi5ZaxGpGqPJUWUMJKnfF2EvbF8MyKi2l0qpuRgiSmMs'
       class: btn-light
-    - title: Trailer
+    - title: Programma e Trailer
       url: '#portfolio'
-      class: btn-light
-    - title: Programma
-      url: '#programma'
       class: btn-light
     - title: Evento Facebook
       url: 'https://fb.me/e/27muREBOC'
-      class: btn-light
-
-- type: call-to-action.html
-  section_id: programma
-  background_style: bg-secondary
-  title: 📅 Programma dal 21 Febbraio al 4 Aprile
-  text: 21 Febbraio<br>20.31 Cattive Acque<br>22.31 Il buco<br><br>28 Febbraio<br>20.31 Jojo Rabbit<br>22.31 The lighthouse<br><br>7 Marzo<br>20.31 Pinocchio<br>22.31 Tenet<br><br>14 Marzo<br>20.31 L’ufficiale e la spia<br>22.31 Morto uno Stalin se ne fa un altro<br><br>21 Marzo<br>20.31 Tutto il mio folle amore<br>22.31 Le sorelle Macaluso<br><br>28 Marzo<br><br>20.31 I miserabili<br>22.31 Favolacce<br><br>4 Aprile<br>20.31 Europa<br>22.31 The Milky Way
-  actions:
-    - title: Guarda i Trailer
-      url: '#portfolio'
       class: btn-light
 
 - type: portfolio.html
