@@ -3,10 +3,11 @@
     <div class="row no-gutters">
       {% for proj in section.projects %}
       <div class="col-lg-4 col-sm-6">
-        <a class="portfolio-box" href="assets/img/portfolio/fullsize/{{ proj.icon }}">
+<!--        <a class="portfolio-box" href="assets/img/portfolio/fullsize/{{ proj.icon }}"> --> <!--commentato per sostituire con riga sotto che causa errore in creative.min.js, permettendo di mostrare iframe -->
+          <a class="portfolio-box" href="{{ proj.url }}">
           <img class="img-fluid" src="assets/img/portfolio/thumbnails/{{ proj.icon }}" alt="">
           <div class="portfolio-box-caption">
-            <div class="project-category text-white-50">
+            <div class="project-category text-white-50"">
               {{ proj.title }}
             </div>
             <div class="project-name">

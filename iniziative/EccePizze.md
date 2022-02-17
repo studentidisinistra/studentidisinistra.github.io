@@ -20,59 +20,59 @@ sections:
       # img/portfolio/fullsize
       # img/portfolio/thumbnails
       icon: 1.jpg
-      url: '#'
+      url: 'https://www.youtube.com/embed/wyoOqYCoXjE'
     - title: Il Buco
       text: 21 febbraio h 22.31
       icon: 2.jpg
-      url: '#'
+      url: 'https://www.youtube.com/embed/oQ17YhKLzJU'
     - title: Jojo Rabbit
       text: 28 febbraio h 20.31
       icon: 3.jpg
-      url: '#'
+      url: 'https://www.youtube.com/embed/vW_NBzWHv6A'
     - title: The lighthouse
       text: 28 febbraio h 22.31
       icon: 4.jpg
-      url: '#'
+      url: 'https://www.youtube.com/embed/Hyag7lR8CPA'
     - title: Pinocchio
       text: 7 marzo h 20.31
       icon: 5.jpg
-      url: '#'
+      url: 'https://www.youtube.com/embed/gmwwrfzFDNs'
     - title: Tenet
       text: 7 marzo h 22.31
       icon: 6.jpg
-      url: '#'
+      url: 'https://www.youtube.com/embed/xH463AYuYQE'
     - title: L’ufficiale e la spia
       text: 14 marzo h 20.31
       icon: 7.jpg
-      url: '#'
+      url: 'https://www.youtube.com/embed/Hd6eRZJvQ0E'
     - title: Morto uno Stalin se ne fa un altro
       text: 14 marzo h 22.31
       icon: 8.jpg
-      url: '#'
+      url: 'https://www.youtube.com/embed/715XTLzAAs0'
     - title: Tutto il mio folle amore
       text: 21 marzo h 20.31
       icon: 9.jpg
-      url: '#'
+      url: 'https://www.youtube.com/embed/_DKtsKIevvo'
     - title: Le sorelle Macaluso
       text: 21 marzo h 22.31
       icon: 10.jpg
-      url: '#'
+      url: 'https://www.youtube.com/embed/APaO9WGRjbw'
     - title: I miserabili
       text: 28 marzo h 20.31
       icon: 11.jpg
-      url: '#'
+      url: 'https://www.youtube.com/embed/xCUqtbRwv0Y'
     - title: Favolacce
       text: 28 marzo h 22.31
       icon: 12.jpg
-      url: '#'
+      url: 'https://www.youtube.com/embed/CHPo-pRtxdU'
     - title: Europa
       text: 4 aprile h 20.31
       icon: 13.jpg
-      url: '#'
+      url: 'https://www.youtube.com/embed/2WMhwlvxzOo'
     - title: The Milky Way
       text: 4 aprile h 22.31
       icon: 14.jpg
-      url: '#'
+      url: 'https://www.youtube.com/embed/NlZE8Yl77A8'
 ---
 📅 **Programma**
 <br><br>
