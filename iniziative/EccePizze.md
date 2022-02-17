@@ -27,7 +27,7 @@ sections:
 - type: call-to-action.html
   section_id: programma
   background_style: bg-secondary
-  title: Programma dal 21 Febbraio al 4 Aprile
+  title: 📅 Programma dal 21 Febbraio al 4 Aprile
   text: 21 Febbraio<br>20.31 Cattive Acque<br>22.31 Il buco<br><br>28 Febbraio<br>20.31 Jojo Rabbit<br>22.31 The lighthouse<br><br>7 Marzo<br>20.31 Pinocchio<br>22.31 Tenet<br><br>14 Marzo<br>20.31 L’ufficiale e la spia<br>22.31 Morto uno Stalin se ne fa un altro<br><br>21 Marzo<br>20.31 Tutto il mio folle amore<br>22.31 Le sorelle Macaluso<br><br>28 Marzo<br><br>20.31 I miserabili<br>22.31 Favolacce<br><br>4 Aprile<br>20.31 Europa<br>22.31 The Milky Way
   actions:
     - title: Guarda i Trailer
@@ -95,48 +95,3 @@ sections:
       url: 'https://www.youtube.com/embed/NlZE8Yl77A8'
 
 ---
-📅 **Programma**
-<br><br>
-**21 Febbraio**
-<br>
-20.31 **Cattive Acque**
-<br>
-22.31 **Il buco**
-<br><br>
-**28 Febbraio**
-<br>
-20.31 **Jojo Rabbit**
-<br>
-22.31 **The lighthouse**
-<br><br>
-**7 Marzo**
-<br>
-20.31 **Pinocchio**
-<br>
-22.31 **Tenet**
-<br><br>
-**14 Marzo**
-<br>
-20.31 **L’ufficiale e la spia**
-<br>
-22.31 **Morto uno Stalin se ne fa un altro**
-<br><br>
-**21 Marzo**
-<br>
-20.31 **Tutto il mio folle amore**
-<br>
-22.31 **Le sorelle Macaluso**
-<br><br>
-**28 Marzo**
-<br><br>
-20.31 **I miserabili**
-<br>
-22.31 **Favolacce**
-<br><br>
-**4 Aprile**
-<br>
-20.31 **Europa**
-<br>
-22.31 **The Milky Way**
-<br><br>
-**Vi consigliamo di arrivare un po’ in anticipo per il controllo della prenotazione e del Green Pass (come da normative vigenti è indispensabile per entrare in sala). 🎬 Buona visione!**
