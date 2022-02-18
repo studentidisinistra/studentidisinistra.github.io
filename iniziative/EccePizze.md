@@ -11,12 +11,12 @@ sections:
   title: 🎬 ECCE PIZZE - Parte seconda
   text: Dopo una lunghissima sessione, sommersə da ansia, disperazione ed esami, torna finalmente "**EccePizze**" la rassegna cinematografica gratuita nel centro di Firenze, la città vetrina! È fondamentale per noi tornare ad usufruire degli spazi della cultura nel cuore della nostra città, combattendo contro la gentrificazione a cui l'attuale amministrazione sta sempre più lavorando. Firenze è soprattutto di chi la vive tutti i giorni e per questo vogliamo continuare EccePizze anche durante il secondo semestre. I film verranno proiettati allo Spazio Alfieri per tuttə coloro che vorranno passare una serata al cinema in compagnia. Guarda i trailer di seguito e sfoglia il programma!<br><br> ATTENZIONE! Ricorda di prenotare il biglietto gratuito; ci permette di svolgere le operazioni di tracciamento.<br>Consigliamo di arrivare un po’ in anticipo per il controllo della prenotazione e del Green Pass (come da normative vigenti è indispensabile per entrare in sala). 🎬 Buona visione!
   actions:
-    - title: Prenota Subito
-      url: 'https://www.eventbrite.it/e/biglietti-eccepizze-202122-secondo-tempo-265002057287?fbclid=IwAR2zz_nCUJwKdJdRi5ZaxGpGqPJUWUMJKnfF2EvbF8MyKi2l0qpuRgiSmMs'
-      class: btn-light
     - title: Programma e Trailer
       url: '#portfolio'
       class: btn-light
+    - title: Prenota Subito
+      url: 'https://www.eventbrite.it/e/biglietti-eccepizze-202122-secondo-tempo-265002057287?fbclid=IwAR2zz_nCUJwKdJdRi5ZaxGpGqPJUWUMJKnfF2EvbF8MyKi2l0qpuRgiSmMs'
+      class: btn-success
     - title: Evento Facebook
       url: 'https://fb.me/e/27muREBOC'
       class: btn-light
