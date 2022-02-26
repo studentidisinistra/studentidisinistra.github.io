@@ -4,7 +4,7 @@
 layout: home
 header:
   #title: Benvenutə su studentidisinistra.it!
-  title: Sta Per tornare EccePizze 🎥
+  title: Torna EccePizze 🎥
   text: la rassegna cinematografica gratuita di SdS!
   action: # action button is optional but cool
     #label: Scopri di più
