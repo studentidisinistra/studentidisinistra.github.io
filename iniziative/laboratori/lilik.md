@@ -8,7 +8,7 @@ sections:
   - type: call-to-action.html
     section_id: about
     background_style: bg-dark
-    title: La pagina del LILiK su questo sito è in costruzione. Intanto ti ricordiamo che puoi contattare i collettivi di Ingegneria e Scienze per saperne di più. Per ora stiamo organizzando incontri con Repair Cafè e Aperitivo il primo e terzo venerdì del mese in aula 117-bis a Santa Marta.
+    title: In attesa che torni operativo il sito ufficiale lilik.it, le informazioni per il Laboratorio di Informatica Libera del Kollettivo d'ingegneria le trovate qui! Potete sempre contattare i collettivi di Ingegneria e Scienze per saperne di più. In questo periodo (inverno-primavera 2022) stiamo organizzando incontri di divulgazione e Repair Cafè con Aperitivo il primo e terzo venerdì del mese in aula 117-bis a Santa Marta; per passare i tornelli è consigliabile prenotare un posto al servizio prestito e informazioni della biblioteca di ingegneria nel pomeriggio (qualunque orario va bene!)
     text:
 
   - type: portfolio_1.html
