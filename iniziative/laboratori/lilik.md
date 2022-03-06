@@ -8,8 +8,8 @@ sections:
   - type: call-to-action.html
     section_id: about
     background_style: bg-dark
-    title: In attesa che torni operativo il sito ufficiale lilik.it, le informazioni per il Laboratorio di Informatica Libera del Kollettivo d'ingegneria le trovate qui! Potete sempre contattare i collettivi di Ingegneria e Scienze per saperne di più. In questo periodo (inverno-primavera 2022) stiamo organizzando incontri di divulgazione e Repair Cafè con Aperitivo il primo e terzo venerdì del mese in aula 117-bis a Santa Marta; per passare i tornelli è consigliabile prenotare un posto al servizio prestito e informazioni della biblioteca di ingegneria nel pomeriggio (qualunque orario va bene!)
-    text:
+    title: In attesa che torni operativo il sito ufficiale lilik.it, le informazioni per il Laboratorio di Informatica Libera del Kollettivo d'ingegneria le trovate qui!
+    text: Potete sempre contattare i collettivi di Ingegneria e Scienze per saperne di più. In questo periodo (inverno-primavera 2022) stiamo organizzando incontri di divulgazione e Repair Cafè con Aperitivo il primo e terzo venerdì del mese in aula 117-bis a Santa Marta; per passare i tornelli è consigliabile prenotare un posto al servizio prestito e informazioni della biblioteca di ingegneria nel pomeriggio (qualunque orario va bene!)
 
   - type: portfolio_1.html
     section_id: eventi
