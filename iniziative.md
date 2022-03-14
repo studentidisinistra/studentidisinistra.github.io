@@ -26,6 +26,8 @@ sections:
     * [CatBox: condividi materiale didattico online su LILiK Cloud](/iniziative/sopravvivenzadalbasso/catbox)
 
     * [LILiK: Laboratorio di Informatica Libera del Kollettivo](/iniziative/laboratori/lilik)
+
+    * [Venerdini: venerdì Ludico-Culturali al dipartimento di Matematica Ulisse Dini](/iniziative/venerdini)
 ---
 <!--
 #ho nascosto questo pezzo perché per ora non funziona
