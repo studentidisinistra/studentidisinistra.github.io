@@ -14,15 +14,22 @@ sections:
   - type: portfolio_1.html
     section_id: eventi
     projects:
-      - title: AperiLILiK
-        text: 18 Febbraio h 18.01
-        icon: 1.jpg
+# mettere in ordine anti-cronologico, sennò le cose nuove finiscono sepolte!
+#      - title: Introduzione alla stampa 3D
+#        text: 15 Aprile h 18.01
+#        icon: 5.jpg
+#      - title: AperiLILiK & RepairCafè
+#        text: 1 Aprile h 18.01
+#        icon: 4.jpg
+      - title: Linux Cocktail Party
+        text: 18 Marzo h 18.01
+        icon: 3.jpg
       - title: AperiLILiK
         text: 4 Marzo h 18.01
         icon: 2.jpg
-      - title: Linux Cocktail Party
-        text: 17 Marzo h 18.01
-        icon: 3.jpg
+      - title: AperiLILiK
+        text: 18 Febbraio h 18.01
+        icon: 1.jpg
 
 #il web developer e designer non ha idea di cosa stia facendo, quindi sbaglia, si incazza, beve un caffè e riprova.
 #si diverte, ma non chiedetegli cose troppo complicate perché è tanto se riesce a mettere i link e le immagini giuste
