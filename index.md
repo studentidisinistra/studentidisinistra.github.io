@@ -3,14 +3,14 @@
 #correggere i commenti dei vecchi commit che fanno pena
 layout: home
 header:
-  #title: Benvenutə su studentidisinistra.it!
-  title: Torna EccePizze 🎥
-  text: la rassegna cinematografica gratuita di SdS!
+  title: Benvenutə su studentidisinistra.it
+  #title: Torna EccePizze 🎥
+  #text: la rassegna cinematografica gratuita di SdS!
   action: # action button is optional but cool
-    #label: Scopri di più
-    #url: '#about'
-    label: Scopri subito il Programma e guarda i Trailer, 21 Febbraio - 4 Aprile
-    url: '/iniziative/EccePizze'
+    label: Scopri di più
+    url: '#about'
+    #label: Scopri subito il Programma e guarda i Trailer, 21 Febbraio - 4 Aprile
+    #url: '/iniziative/EccePizze'
 
 
 sections:
