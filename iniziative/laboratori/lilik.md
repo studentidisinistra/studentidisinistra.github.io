@@ -18,9 +18,9 @@ sections:
 #      - title: Introduzione alla stampa 3D
 #        text: 15 Aprile h 18.01
 #        icon: 5.jpg
-#      - title: AperiLILiK & RepairCafè
-#        text: 1 Aprile h 18.01
-#        icon: 4.jpg
+      - title: AperiLILiK & RepairCafè
+        text: 6 Maggio h 18.01
+        icon: 4.jpg
       - title: Linux Cocktail Party
         text: 18 Marzo h 18.01
         icon: 3.jpg
