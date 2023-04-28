@@ -3,7 +3,7 @@ title: Studenti di Sinistra
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://studentidisinistra.it/" # the base hostname & protocol for your site
-author: Copyright &copy; 2020 - LILik per SdS
+author: Copyright &copy; 2020 - 2023 LILik per SdS
 lang: it_IT
 
 # Build settings
