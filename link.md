@@ -16,13 +16,13 @@ sections:
 #  title: Come Linktree, ma più bello!
   title: Raccolta dei Linktree di SdS e collettivi
   text: >+
-    Qui inseriremo i nostri link vari per renderli facilmente raggiungibili da Instagram e altri social.
+    Qui inseriamo i link vari per renderli facilmente raggiungibili da Instagram e altri social.
 
     * [Studenti di Sinistra](https://linktr.ee/studentidisinistra)
 
     * [Collettivo di Scienze](https://linktr.ee/CollettivoDiScienze)
 
-    * [Salute psicologica Studentesca](https://cloud.lilik.it/s/XzDTewtcLRpdQPX)
+ #   * [Salute psicologica Studentesca](https://cloud.lilik.it/s/XzDTewtcLRpdQPX)
 ---
 <!--
 #ho nascosto questo pezzo perché per ora non funziona
