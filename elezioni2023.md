@@ -33,7 +33,7 @@ sections:
 
   - type: members2.html
     section_id: programmi
-    title: Programmi Elettorali Biennio 2023-2025. A breve saranno online anche i programmi dei singoli collettivi, stay tuned!
+    title: Programmi Elettorali Biennio 2023-2025
     #Cosa sono le controguide?  <br /> Sono dei piccoli libriccini che raccolgono informazioni utili sulla vita all'università, consigli, divertenti aneddoti e informazioni su SdS, i Collettivi e le nostre attività!  <br />
     background_style: bg-info text-white
     members:
@@ -41,4 +41,20 @@ sections:
         text: programma elettorale '23-'25
         image: /elezioni2023/asset/ateneo.png
         url: '/QR_Statici/P_SDS_23'
+      - title: Collettivo di Medicina Codice Rosso
+        text: Programma elettorale del collettivo di medicina
+        image: /elezioni2023/asset/CR.png
+        url: '/QR_Statici/P_CR_23'
+      - title: Collettivo di Psicologia Laboratorio15
+        text: Programma elettorale del collettivo di psicologia
+        image: /elezioni2023/asset/lab15.png
+        url: '/QR_Statici/P_L15_23'
+      - title: Collettivo di Scienze
+        text: Programma elettorale del collettivo di SSMMFFNN
+        image: /elezioni2023/asset/scienze.png
+        url: '/QR_Statici/P_SCIE_23'
+      - title: CUMA - Collettivo Umanistico
+        text: Programma elettorale del Collettivo Umanistico
+        image: /elezioni2023/asset/cuma.png
+        url: '/QR_Statici/P_CUMA_23'
 ---
