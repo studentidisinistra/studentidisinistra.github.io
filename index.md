@@ -3,7 +3,7 @@
 #correggere i commenti dei vecchi commit che fanno pena
 layout: home
 header:
-  title: Benvenutə su studentidisinistra.it
+  title: Benvenutə sul sito di Studenti di Sinistra
   #title: Torna EccePizze 🎥
   #text: la rassegna cinematografica gratuita di SdS!
   action: # action button is optional but cool
