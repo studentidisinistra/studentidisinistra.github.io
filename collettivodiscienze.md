@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Benvenutə sulla pagina del Collettivo di Scienze
+title(black): Benvenutə sulla pagina del Collettivo di Scienze
 
-background_image: url('assets/img/backgrounds/scienze.png')
+background_image: url('assets/img/backgrounds/SfondoScie23.png')
 
 sections:
   - type: call-to-action.html
@@ -45,7 +45,7 @@ sections:
       url: mailto:scienzecollettivo@gmail.com
     - title: Vieni a trovarci!
       icon: fa-users
-      url: 'https://www.arcifirenze.it/circoli/circolo-ricreativo-tra-i-lavoratori-di-porta-al-prato/'
+      url: 'https://goo.gl/maps/whXbhnhzkvYUYvXU9?coh=178572&entry=tt'
 # inserire un'immagine con link
 #      <a href="./collettivodiscienze">
 #         <img src="assets/img/members/scienze.png">

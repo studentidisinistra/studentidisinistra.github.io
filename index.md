@@ -62,6 +62,10 @@ sections:
         text: Collettivo Umanistico
         image: assets/img/members/cuma.png
         url: './cuma'
+      - title: StudentidiSinistra.org
+        text: Archivio del vecchio sito della rete dei collettivi Srudenti di Sinistra
+        image: assets/img/members/SdS_old.png
+        url: 'http://web.archive.org/web/20141222090134/http://www.studentidisinistra.org/'
 
 
   - type: contact.html
