@@ -1,6 +1,6 @@
 ---
 layout: page
-title(black): Benvenutə sulla pagina del Collettivo di Scienze
+title: #Benvenutə sulla pagina del Collettivo di Scienze
 
 background_image: url('assets/img/backgrounds/SfondoScie23.png')
 
@@ -29,7 +29,7 @@ sections:
     section_id: contatti
     title: Trovaci sui social, oppure vieni a trovarci!
     text: >-
-      Puoi trovare Collettivo di Scienze su facebook, instagram e scriverci per email, oppure tutti i martedì alle 17:30 in riunione online (scrivici per sapere come collegarti!). Appena sarà possibile torneremo al circolo ARCI in Via delle Porte Nuove e gradualmente nei nostri spazi universitari!
+      Puoi trovare Collettivo di Scienze su facebook, instagram e scriverci per email, oppure al blocco aule del Polo di Sesto (collettivo di polo "SestoGrad") e al Centro didattico Morgagni in aula autogestita 009 (pian terreno, mantenuta da studenti del plesso e luogo d'incontro anche per i collettivi di ingegneria e medicina)!
 
     actions:
     - title: Facebook
@@ -43,9 +43,12 @@ sections:
     - title: E-Mail
       icon: fa-envelope
       url: mailto:scienzecollettivo@gmail.com
-    - title: Vieni a trovarci!
+    - title: Vieni a trovarci al polo (collettivo SestoGrad)
       icon: fa-users
       url: 'https://goo.gl/maps/whXbhnhzkvYUYvXU9?coh=178572&entry=tt'
+    - title: Vieni a trovarci al CDM (Morgagni)
+      icon: fa-users
+      url: 'https://goo.gl/maps/vKirvuXJ7xKM8rwH8?coh=178572&entry=tt'
 # inserire un'immagine con link
 #      <a href="./collettivodiscienze">
 #         <img src="assets/img/members/scienze.png">
