@@ -6,10 +6,20 @@ title: News
 # Add a link to the the top menu
 menus:
   header:
-    title: 2020-09-20 Ci siamo quasi!
+    title: 05-05-23 risultati elettorali
     weight: 2
 
 sections:
+# mettere in ordine anti-cronologico, sennò le cose nuove finiscono sepolte!
+  - type: call-to-action.html
+    section_id: post10
+    background_style: bg-info
+    title: 05-05-2023 Studenti di Sinistra seconda lista di ateneo!
+    text: Grazie a tuttə per il supporto, SdS torna seconda lista, rientrando con almeno unə rappresentante in tutti gli organi centrali! [leggi di più qui](./elezioni2023)
+    actions:
+      - title: notizie precedenti
+        url: '#post9'
+        class: btn-light
   - type: call-to-action.html
     section_id: post9
     background_style: bg-secondary

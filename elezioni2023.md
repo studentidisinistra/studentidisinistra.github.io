@@ -6,35 +6,22 @@ title: Elezioni 2023
 
 sections:
 
-#  - type: call-to-action.html
-#    section_id: ricordami
-#    background_style: bg-primary
-#    title: Leggi i programmi elettorali online per il biennio 2021-2023
-#    text:
-#    actions:
-#      - title: Vai ai programmi
-#        url: '#programmi'
-#        class: btn-success
-#      - title: Ricordami di votare
-#        url: 'https://news.sestograd.org/remindervoto'
-#        class: btn-warning
-#      - title: Come votare
-#        url: 'https://www.unifi.it/upload/sub/elezioni/studenti_2021_2023/guida_voto_eligo.pdf'
-#        class: btn-success
-#      - title: Pagina elezioni Unifi
-#        url: 'https://www.unifi.it/p11979.html'
-#        class: btn-secondary
-#      - title: Vota Ora!
-#        url: 'https://unifi.evoting.it/login.aspx?id=1iGS16gjbPE%253d'
-#        class: btn-danger
-#      - title: Guida al Voto
-#        url: '/votaora'
-#        class: btn-success
+  - type: call-to-action.html
+    section_id: risultati
+    background_style: bg-primary
+    title: Risultati elezioni 3 e 4 maggio 2023
+    text: Grazie a tuttə per il supporto, SdS torna seconda lista di ateneo, rientrando con almeno unə rappresentante in tutti gli organi centrali! Siamo inoltre particolarmente contentə del risultato in Scuola di Scienze, un rinnovato 5-0, grazie al Collettivo di Scienze e a Collettivo di Polo!
+    actions:
+      - title: Programmi elettorali
+        url: '#programmi'
+        class: btn-light
+      - title: Risultati ufficiali
+        url: 'https://www.unifi.it/elezioni-studentesche-23#proclamazione_eletti'
+        class: btn-success
 
   - type: members2.html
     section_id: programmi
     title: Programmi Elettorali Biennio 2023-2025
-    #Cosa sono le controguide?  <br /> Sono dei piccoli libriccini che raccolgono informazioni utili sulla vita all'università, consigli, divertenti aneddoti e informazioni su SdS, i Collettivi e le nostre attività!  <br />
     background_style: bg-info text-white
     members:
       - title: Studenti di Sinistra (rete dei collettivi d'Ateneo)

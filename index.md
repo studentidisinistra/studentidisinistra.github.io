@@ -1,14 +1,14 @@
 ---
-#Devo cancellare gli asset inutili
-#correggere i commenti dei vecchi commit che fanno pena
+# i colori si possono modificare dentro creative.scss e sono in formato hex
 layout: home
 header:
+  #title:
+  title: Grazie!
   #title: Benvenutə sul sito di Studenti di Sinistra
-  title: Il 3 e 4 Maggio si vota per le elezioni studentesche!
-  #text: la rassegna cinematografica gratuita di SdS!
+  text: Elezioni 2023, SdS seconda lista di ateneo
   action: # action button is optional but cool
-    label: Elezioni2023
-    url: '#Vota23'
+    label: Scopri di più
+    url: '#about'
     #label: Scopri subito il Programma e guarda i Trailer, 21 Febbraio - 4 Aprile
     #url: '/iniziative/EccePizze'
 
@@ -24,19 +24,15 @@ sections:
       - title: Conosci i Collettivi
         url: '#collettivi'
         class: btn-light
-
-  - type: call-to-action.html
-    section_id: Vota23
-    background_style: bg-dark
-    title: Elezioni2023
-    text: Consulta i programmi elettorali, la guida al voto e vota online.
-    actions:
-    - title: Elezioni 2023-2025
-      url: '/elezioni2023'
-      class: btn-success
-    - title: Conosci i Collettivi
-      url: '#collettivi'
-      class: btn-light
+      - title: Scopri le nostre iniziative
+        url: '/iniziative'
+        class: btn-success
+      - title: Trovaci sui social
+        url: '#contatti'
+        class: btn-light
+      - title: Risultati elezioni '23
+        url: '/elezioni2023'
+        class: btn-success
 
   - type: members.html
     section_id: collettivi

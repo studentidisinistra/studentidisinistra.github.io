@@ -17,15 +17,15 @@ sections:
   title: Scopri le iniziative attuali e storiche dei collettivi
   text: >+
 
+    * [CatBox: condividi materiale didattico online su LILiK Cloud](/iniziative/sopravvivenzadalbasso/catbox)
+
+    * [LILiK: Laboratorio di Informatica Libera del Kollettivo](/iniziative/laboratori/lilik)
+
     * [🎥 EccePizze: il cinema gratuito](/iniziative/EccePizze)
 
     * [🎭 EcceTheatre: Laboratorio di teatro gratuito](/iniziative/laboratori/eccetheatre)
 
     * [ControGuide: le guide ai corsi di laurea e all'ateneo fiorentino scritte dai Collettivi](/iniziative/sopravvivenzadalbasso/controguide)
-
-    * [CatBox: condividi materiale didattico online su LILiK Cloud](/iniziative/sopravvivenzadalbasso/catbox)
-
-    * [LILiK: Laboratorio di Informatica Libera del Kollettivo](/iniziative/laboratori/lilik)
 
     * [Venerdini: venerdì Ludico-Culturali al dipartimento di Matematica Ulisse Dini](/iniziative/venerdini)
 ---
