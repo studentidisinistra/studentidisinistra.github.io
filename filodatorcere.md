@@ -39,6 +39,9 @@ sections:
     text: Nel corso degli anni, all’interno del Collettivo sono nati dei laboratori auto-organizzati aperti a tutti e tutte (non solo chi fa parte del collettivo!); in questa ottica, all'interno dell'aula del Collettivo di Santa Marta sono nati il Laboratorio d'Informatica Libera del Collettivo e il Laboratorio di Meccanica del Collettivo. Tanti sono i progetti e le iniziative promossi da questi laboratori negli anni, tra cui quelli dedicati al software libero (LILiK) e l'autocostruzione di una stampante 3D (LaMeK) fruibile da tutti e tutte.
     actions:
       - title: Prontə a partecipare?
+        url: './iniziative/laboratori/lilik'
+        class: btn-success
+      - title: Contattaci
         url: '#contatti'
         class: btn-light
   - type: contact.html
