@@ -86,7 +86,7 @@ sections:
     actions:
     - title: E-Mail
       icon: fa-envelope
-      url: mailto:info.studentidisinistra.gmail.com
+      url: mailto:info.studentidisinistra@gmail.com
     - title: Facebook
       icon: fa-facebook
       icon_type: fab
