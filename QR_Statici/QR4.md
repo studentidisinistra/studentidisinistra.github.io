@@ -7,7 +7,7 @@
 <head>  
     <title>HTML Redirect</title>  
     <meta http-equiv="refresh"
-        content="0; url = https://" />  
+        content="0; url = https://login.lilik.it" />  
 </head>  
 
 <body>  
