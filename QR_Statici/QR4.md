@@ -18,7 +18,7 @@
     <p style="text-align:center;">  
         Ti stiamo reindirizzando al link richiesto
         <br> <br>
-        <a href="https://login.lilik.it/">Se il tuo browser non supporta il redirect, clicca qui</a>
+        <a href="https://login.lilik.it">Se il tuo browser non supporta il redirect, clicca qui</a>
     </p>  
 </body>  
 
