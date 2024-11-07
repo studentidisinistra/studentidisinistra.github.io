@@ -10,6 +10,13 @@ sections:
     background_style: bg-dark
     title: il Laboratorio d'Informatica Libera del Kollettivo (LILiK) è un laboratorio autogestito, pieno di progetti open-source e hardware costruito/riparato/mantenuto direttamente da studentə come te.
     text: Finalmente passato il peggio del Covid torniamo a riunirci tutti i venerdì dalle 17 in aula 117-bis a Santa Marta; controlla la pagina per scoprire i nuovi eventi!
+   actions:
+      - title: Scopri i nostri eventi
+        url: '#eventi'
+        class: btn-light
+      - title: Accedi ai file dei repair café
+        url: 'https://cloud.lilik.it/s/SPMWTfz24ocQSeR'
+        class: btn-success
 
   - type: portfolio_1.html
     section_id: eventi
