@@ -8,8 +8,8 @@ sections:
   - type: call-to-action.html
     section_id: about
     background_style: bg-dark
-    title: il Laboratorio d'Informatica Libera del Kollettivo (LILiK) è un laboratorio autogestito, pieno di progetti open-source e hardware costruito/riparato/mantenuto direttamente da studentə come te.
-    text: Finalmente passato il peggio del Covid torniamo a riunirci tutti i venerdì dalle 17 in aula 117-bis a Santa Marta; controlla la pagina per scoprire i nuovi eventi!
+    title: Tutti i venerdì dalle 17 in aula 50 (ex 117-bis) a Santa Marta
+    text: il Laboratorio d'Informatica Libera del Kollettivo (LILiK) è un laboratorio autogestito, pieno di progetti open-source e hardware costruito/riparato/mantenuto direttamente da studentə come te. Finalmente passato il peggio del Covid torniamo a riunirci tutti i venerdì dalle 17 in aula 117-bis a Santa Marta; controlla la pagina per scoprire i nuovi eventi!
     actions:
     - title: Scopri i nostri eventi
       url: '#eventi'
