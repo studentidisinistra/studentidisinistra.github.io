@@ -25,6 +25,9 @@ sections:
 #      - title: Introduzione alla stampa 3D
 #        text: 15 Aprile h 18.01
 #        icon: 5.jpg
+      - title: Repair Café e Linux Cocktail Party
+        text: Continua il repair café e ritorna il linux cocktail party!
+        icon: 7.jpg
       - title: Repair Café 2024
         text: Vieni all'incontro di lancio del 2024
         icon: 6.jpg
