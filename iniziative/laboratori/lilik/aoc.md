@@ -12,9 +12,10 @@ sections:
     text: Partecipa all'Advent of Code del 2024 col gruppo Unifi organizzato dal LILiK, clicca il pulsante verde qui sotto, registrati e inserisci il codice 3277666-724514e1 per entrare nella leaderboard privata!
 
 actions:
-  - title: Clicca qui per partecipare
-    url: 'https://adventofcode.com/'
-    class: btn-success
+
+    - title: Clicca qui per partecipare
+      url: 'https://adventofcode.com/'
+      class: btn-success
 
 #il web developer e designer non ha idea di cosa stia facendo, quindi sbaglia, si incazza, beve un caffè e riprova.
 #si diverte, ma non chiedetegli cose troppo complicate perché è tanto se riesce a mettere i link e le immagini giuste
