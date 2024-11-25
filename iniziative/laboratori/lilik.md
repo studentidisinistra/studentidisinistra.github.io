@@ -14,9 +14,15 @@ sections:
 #    - title: Scopri i nostri eventi
 #      url: '#eventi'
 #      class: btn-light
+    - title: Partecipa a Advent of Code 2024
+      url: '/iniziative/laboratori/lilik/aoc'
+    class: btn-light
+    - title: Gruppo LILiK al FOSDEM 2025
+      url: '/iniziative/laboratori/lilik/fosdem'
+    class: btn-success
     - title: Accedi ai file dei repair café
       url: 'https://cloud.lilik.it/s/SPMWTfz24ocQSeR'
-    class: btn-success
+    class: btn-light
 
   - type: portfolio_1.html
     section_id: eventi
