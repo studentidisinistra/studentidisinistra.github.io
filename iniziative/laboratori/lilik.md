@@ -14,7 +14,7 @@ sections:
 #    - title: Scopri i nostri eventi
 #      url: '#eventi'
 #      class: btn-light
-    - title: Partecipa all'Advent of Code
+    - title: Advent of Code 2024
       url: '/iniziative/laboratori/lilik/aoc'
       class: btn-light
     - title: Gruppo LILiK FOSDEM 2025
