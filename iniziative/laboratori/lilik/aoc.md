@@ -14,7 +14,7 @@ sections:
 #    - title: Scopri i nostri eventi
 #      url: '#eventi'
 #      class: btn-light
-    - title: Clicca qui per partecipare
+    - title: Partecipa!
       url: 'https://adventofcode.com'
       class: btn-success
       
