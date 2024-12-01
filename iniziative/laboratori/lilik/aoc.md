@@ -9,7 +9,7 @@ sections:
     section_id: about
     background_style: bg-dark
     title: Primo Dicembre, al via l'Advent of Code 2024!
-    text: Partecipa all'Advent of Code del 2024 col gruppo Unifi organizzato dal LILiK, registrati su [https://adventofcode.com](https://adventofcode.com), clicca il pulsante verde e inserisci il codice 3277666-724514e1 per entrare nella leaderboard privata del LILiK!. Se hai bisogno di aiuto, guarda la guida qui sotto.
+    text: Partecipa all'Advent of Code del 2024 col gruppo Unifi organizzato dal LILiK, registrati su [https://adventofcode.com](https://adventofcode.com), clicca il pulsante verde e inserisci il codice 3277666-724514e1 per entrare nella leaderboard privata del LILiK!. Se hai bisogno di aiuto, guarda la guida qui sotto; inoltre trovi dei video informativi (non fatti da noi, ma che ci sono piaciuti!) su gli AoC passati.
     actions:
 #    - title: Partecipa!
 #      url: 'https://adventofcode.com'
@@ -29,10 +29,18 @@ sections:
   - type: portfolio_1.html
     section_id: guida
     projects:
-    # mettere in ordine anti-cronologico, sennò le cose nuove finiscono sepolte!
+    # mettere in ordine anti-cronologico, sennò le c  ose nuove finiscono sepolte!
         - title: Come accedo alla leaderboard del LILiK?
           text: Tocca qui per vedere una guida all'accesso alla leaderboard
           icon: 1aoc.jpg
+        - title: why you should do advent of code
+          text: video carino che spiega come mai è bello partecipare
+          icon: 2.jpg
+          url: 'https://www.youtube.com/embed/ddLbE9aGHno'
+        - title: how to get the most out of advent of code
+          text: utile spiegazione generale
+          icon: 3.jpg
+          url: 'https://www.youtube.com/embed/W-wDptwcbz4'
   - type: call-to-action.html
     section_id: annipassati
     background_style: bg-dark text-white
