@@ -31,7 +31,7 @@ sections:
     section_id: annipassati
     background_style: bg-dark
     title: Ecco i temi degli anni passati
-    text{: .align-left}: 2015 - [Help Santa and the Elves in general](https://adventofcode.com/2015) <br/>
+    text: 2015 - [Help Santa and the Elves in general](https://adventofcode.com/2015) <br/>
           2016 - [Infiltrate Easter Bunny Headquarters](https://adventofcode.com/2016) <br/>
           2017 - [Go inside an Elf computer/printer](https://adventofcode.com/2017) <br/>
           2018 - [Time travel to Christmas past](https://adventofcode.com/2018) <br/>
