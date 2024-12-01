@@ -35,7 +35,7 @@ sections:
           icon: 1aoc.jpg
         - title: Volantino AoC LILiK
           text: sfoglia il volantino ufficiale
-          icon: 1aoc.jpg
+          icon: 2aoc.jpg
   - type: portfolio.html
     section_id: video
     projects:
