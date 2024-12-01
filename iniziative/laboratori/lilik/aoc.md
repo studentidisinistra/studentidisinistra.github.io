@@ -47,8 +47,8 @@ sections:
     projects:
     # mettere in ordine anti-cronologico, sennò le cose nuove finiscono sepolte!
         - title: Come accedo alla leaderboard del LILiK?
-        text: Tocca qui per vedere una guida all'accesso alla leaderboard
-        icon: 1aoc.jpg
+          text: Tocca qui per vedere una guida all'accesso alla leaderboard
+          icon: 1aoc.jpg
       
 #il web developer e designer non ha idea di cosa stia facendo, quindi sbaglia, si incazza, beve un caffè e riprova.
 #si diverte, ma non chiedetegli cose troppo complicate perché è tanto se riesce a mettere i link e le immagini giuste
