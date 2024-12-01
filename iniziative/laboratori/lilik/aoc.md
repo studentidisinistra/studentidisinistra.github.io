@@ -31,15 +31,15 @@ sections:
     section_id: annipassati
     background_style: bg-dark
     title: Ecco i temi degli anni passati
-    text: * 2015 - [Help Santa and the Elves in general](https://adventofcode.com/2015) <br/>
-          * 2016 - [Infiltrate Easter Bunny Headquarters](https://adventofcode.com/2016) <br/>
-          * 2017 - [Go inside an Elf computer/printer](https://adventofcode.com/2017) <br/>
-          * 2018 - [Time travel to Christmas past](https://adventofcode.com/2018) <br/>
-          * 2019 - [Journey through the Solar System](https://adventofcode.com/2019) <br/>
-          * 2020 - [Take a vacation](https://adventofcode.com/2020) <br/>
-          * 2021 - [Dive to the ocean bottom](https://adventofcode.com/2021) <br/>
-          * 2022 - [Accompany a volcanic jungle expedition](https://adventofcode.com/2022) <br/>
-          * 2023 - [Ascend a floating island archipelago](https://adventofcode.com/2023)
+    text: 2015 - [Help Santa and the Elves in general](https://adventofcode.com/2015){: .align-left} <br/>
+          2016 - [Infiltrate Easter Bunny Headquarters](https://adventofcode.com/2016){: .align-left} <br/>
+          2017 - [Go inside an Elf computer/printer](https://adventofcode.com/2017){: .align-left} <br/>
+          2018 - [Time travel to Christmas past](https://adventofcode.com/2018){: .align-left} <br/>
+          2019 - [Journey through the Solar System](https://adventofcode.com/2019){: .align-left} <br/>
+          2020 - [Take a vacation](https://adventofcode.com/2020){: .align-left} <br/>
+          2021 - [Dive to the ocean bottom](https://adventofcode.com/2021){: .align-left} <br/>
+          2022 - [Accompany a volcanic jungle expedition](https://adventofcode.com/2022){: .align-left} <br/>
+          2023 - [Ascend a floating island archipelago](https://adventofcode.com/2023){: .align-left}
       
 #il web developer e designer non ha idea di cosa stia facendo, quindi sbaglia, si incazza, beve un caffè e riprova.
 #si diverte, ma non chiedetegli cose troppo complicate perché è tanto se riesce a mettere i link e le immagini giuste
