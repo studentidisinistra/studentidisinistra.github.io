@@ -42,11 +42,11 @@ sections:
           2022 - [Accompany a volcanic jungle expedition](https://adventofcode.com/2022) <br/>
           2023 - [Ascend a floating island archipelago](https://adventofcode.com/2023)
     
-    - type: portfolio_1.html
+  - type: portfolio_1.html
     section_id: guida
     projects:
-# mettere in ordine anti-cronologico, sennò le cose nuove finiscono sepolte!
-      - title: Come accedo alla leaderboard del LILiK?
+    # mettere in ordine anti-cronologico, sennò le cose nuove finiscono sepolte!
+        - title: Come accedo alla leaderboard del LILiK?
         text: Tocca qui per vedere una guida all'accesso alla leaderboard
         icon: 1aoc.jpg
       
