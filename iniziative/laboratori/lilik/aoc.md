@@ -23,7 +23,6 @@ sections:
     - title: Unisciti alla leaderboard LILiK
       url: 'https://adventofcode.com/2024/leaderboard/private'
       class: btn-success
-      https://adventofcode.com/2024/leaderboard/private
       
 #il web developer e designer non ha idea di cosa stia facendo, quindi sbaglia, si incazza, beve un caffè e riprova.
 #si diverte, ma non chiedetegli cose troppo complicate perché è tanto se riesce a mettere i link e le immagini giuste
