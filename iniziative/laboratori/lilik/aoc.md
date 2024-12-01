@@ -26,13 +26,17 @@ sections:
     - title: Temi degli anni passati
       url: '#annipassati'
       class: btn-light
-  - type: portfolio.html
+  - type: portfolio_1.html
     section_id: guida
     projects:
-    # mettere in ordine anti-cronologico, sennò le c  ose nuove finiscono sepolte!
+    #
         - title: Come accedo alla leaderboard del LILiK?
           text: Tocca qui per vedere una guida all'accesso alla leaderboard
           icon: 1aoc.jpg
+  - type: portfolio.html
+    section_id: video
+    projects:
+    #
         - title: why you should do advent of code
           text: video carino che spiega come mai è bello partecipare
           icon: 2.jpg
