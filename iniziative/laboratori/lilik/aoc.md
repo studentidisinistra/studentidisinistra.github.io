@@ -8,8 +8,8 @@ sections:
   - type: call-to-action.html
     section_id: about
     background_style: bg-dark
-    title: Advent of Code 2024
-    text: Partecipa all'Advent of Code del 2024 col gruppo Unifi organizzato dal LILiK, clicca il pulsante verde qui sotto, registrati e inserisci il codice 3277666-724514e1 per entrare nella leaderboard privata!
+    title: Primo Dicembre, al via l'Advent of Code 2024!
+    text: Partecipa all'Advent of Code del 2024 col gruppo Unifi organizzato dal LILiK, clicca il pulsante verde qui sotto, registrati e inserisci il codice 3277666-724514e1 per entrare nella leaderboard privata del LILiK!
     actions:
 #    - title: Scopri i nostri eventi
 #      url: '#eventi'
@@ -17,6 +17,13 @@ sections:
     - title: Partecipa!
       url: 'https://adventofcode.com'
       class: btn-success
+    - title: Stanza Matrix dedicata
+      url: 'https://matrix.to/#/#advent-of-code-unifi:matrix.org'
+      class: btn-light
+    - title: Unisciti alla leaderboard LILiK
+      url: 'https://adventofcode.com/2024/leaderboard/private'
+      class: btn-success
+      https://adventofcode.com/2024/leaderboard/private
       
 #il web developer e designer non ha idea di cosa stia facendo, quindi sbaglia, si incazza, beve un caffè e riprova.
 #si diverte, ma non chiedetegli cose troppo complicate perché è tanto se riesce a mettere i link e le immagini giuste
