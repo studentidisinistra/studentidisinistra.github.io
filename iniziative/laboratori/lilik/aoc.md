@@ -33,6 +33,9 @@ sections:
         - title: Come accedo alla leaderboard del LILiK?
           text: Tocca qui per vedere una guida all'accesso alla leaderboard
           icon: 1aoc.jpg
+        - title: Volantino AoC LILiK
+          text: sfoglia il volantino ufficiale
+          icon: 1aoc.jpg
   - type: portfolio.html
     section_id: video
     projects:
