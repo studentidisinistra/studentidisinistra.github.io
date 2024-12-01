@@ -36,11 +36,11 @@ sections:
         - title: why you should do advent of code
           text: video carino che spiega come mai è bello partecipare
           icon: 2.jpg
-          url: 'https://www.youtube.com/embed/ddLbE9aGHno'
+          url: 'https://www.youtube.com/embed/ddLbE9aGHno?si=EN_INAp9uVSA-BOY'
         - title: how to get the most out of advent of code
           text: utile spiegazione generale
           icon: 3.jpg
-          url: 'https://www.youtube.com/embed/W-wDptwcbz4'
+          url: 'https://www.youtube.com/embed/W-wDptwcbz4?si=LY9AieZOFJqCRGmi'
   - type: call-to-action.html
     section_id: annipassati
     background_style: bg-dark text-white
