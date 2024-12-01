@@ -20,13 +20,19 @@ sections:
     - title: Unisciti alla leaderboard LILiK
       url: 'https://adventofcode.com/2024/leaderboard/private'
       class: btn-success
+    - title: Guida leaderboard
+      url: '#guida'
+      class: btn-light
     - title: Temi degli anni passati
       url: '#annipassati'
-      class: btn-light
-    - title: Guida alla leaderboard
-      url: '#guida'
       class: btn-success
-      
+  - type: portfolio_1.html
+    section_id: guida
+    projects:
+    # mettere in ordine anti-cronologico, sennò le cose nuove finiscono sepolte!
+        - title: Come accedo alla leaderboard del LILiK?
+          text: Tocca qui per vedere una guida all'accesso alla leaderboard
+          icon: 1aoc.jpg
   - type: call-to-action.html
     section_id: annipassati
     background_style: bg-dark text-white
@@ -41,14 +47,6 @@ sections:
           2021 - [Dive to the ocean bottom](https://adventofcode.com/2021) <br/>
           2022 - [Accompany a volcanic jungle expedition](https://adventofcode.com/2022) <br/>
           2023 - [Ascend a floating island archipelago](https://adventofcode.com/2023)
-    
-  - type: portfolio_1.html
-    section_id: guida
-    projects:
-    # mettere in ordine anti-cronologico, sennò le cose nuove finiscono sepolte!
-        - title: Come accedo alla leaderboard del LILiK?
-          text: Tocca qui per vedere una guida all'accesso alla leaderboard
-          icon: 1aoc.jpg
       
 #il web developer e designer non ha idea di cosa stia facendo, quindi sbaglia, si incazza, beve un caffè e riprova.
 #si diverte, ma non chiedetegli cose troppo complicate perché è tanto se riesce a mettere i link e le immagini giuste
