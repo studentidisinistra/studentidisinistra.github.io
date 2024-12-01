@@ -9,14 +9,14 @@ sections:
     section_id: about
     background_style: bg-dark
     title: Primo Dicembre, al via l'Advent of Code 2024!
-    text: Partecipa all'Advent of Code del 2024 col gruppo Unifi organizzato dal LILiK, clicca il pulsante verde qui sotto, registrati e inserisci il codice 3277666-724514e1 per entrare nella leaderboard privata del LILiK!
+    text: Partecipa all'Advent of Code del 2024 col gruppo Unifi organizzato dal LILiK, clicca il pulsante verde qui sotto, registrati su [https://adventofcode.com](https://adventofcode.com) e inserisci il codice 3277666-724514e1 per entrare nella leaderboard privata del LILiK!
     actions:
 #    - title: Scopri i nostri eventi
 #      url: '#eventi'
 #      class: btn-light
-    - title: Partecipa!
-      url: 'https://adventofcode.com'
-      class: btn-success
+#    - title: Partecipa!
+#      url: 'https://adventofcode.com'
+#      class: btn-success
     - title: Stanza Matrix dedicata
       url: 'https://matrix.to/#/#advent-of-code-unifi:matrix.org'
       class: btn-light
