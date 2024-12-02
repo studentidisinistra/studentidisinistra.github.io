@@ -51,7 +51,7 @@ sections:
   - type: call-to-action.html
     section_id: annipassati
     background_style: bg-dark text-white
-    title: Ecco i temi degli anni passati
+    title: Temi degli anni passati
     text-align: left
     text: 2015 - [Help Santa and the Elves in general](https://adventofcode.com/2015) <br/>
           2016 - [Infiltrate Easter Bunny Headquarters](https://adventofcode.com/2016) <br/>
