@@ -25,7 +25,7 @@ sections:
 
     * [🎭 EcceTheatre: Laboratorio di teatro gratuito](/iniziative/laboratori/eccetheatre)
 
-    * [📓 ControGuide: le guide ai corsi di laurea e all'ateneo fiorentino scritte dai Collettivi](/iniziative/sopravvivenzadalbasso/controguide)
+    * [📖 ControGuide: le guide ai corsi di laurea e all'ateneo fiorentino scritte dai Collettivi](/iniziative/sopravvivenzadalbasso/controguide)
 
     * [♟ Venerdini: venerdì Ludico-Culturali al dipartimento di Matematica Ulisse Dini](/iniziative/venerdini)
 ---
