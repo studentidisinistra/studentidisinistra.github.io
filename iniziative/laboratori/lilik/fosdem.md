@@ -24,12 +24,6 @@ sections:
           text: buffe presentazioni
           icon: fos2.jpg
         - title: Foto
-          text: stand di mozzilla...
-          icon: fos3.jpg
-        - title: Foto
-          text: mozzilla porta gli unici cookies buoni
-          icon: fos4.jpg
-        - title: Foto
           text: edifici che danno fatidio al nostro OCD
           icon: fos5.jpg
         - title: Foto
@@ -57,12 +51,6 @@ sections:
           text: museo della storia europea
           icon: fos13.jpg
         - title: Foto
-          text: museo della storia europea 2
-          icon: fos14.jpg
-        - title: Foto
-          text: bei graffiti
-          icon: fos15.jpg
-        - title: Foto
           text: nebbia 2 - la vendetta
           icon: fos16.jpg
         - title: Foto
@@ -71,6 +59,18 @@ sections:
         - title: Foto
           text: pront3 al ritorno
           icon: fos18.jpg
+        - title: Foto
+          text: stand di mozzilla...
+          icon: fos3.jpg
+        - title: Foto
+          text: mozzilla porta gli unici cookies buoni
+          icon: fos4.jpg
+        - title: Foto
+          text: museo della storia europea 2
+          icon: fos14.jpg
+        - title: Foto
+          text: bei graffiti
+          icon: fos15.jpg
 
 #il web developer e designer non ha idea di cosa stia facendo, quindi sbaglia, si incazza, beve un caffè e riprova.
 #si diverte, ma non chiedetegli cose troppo complicate perché è tanto se riesce a mettere i link e le immagini giuste
