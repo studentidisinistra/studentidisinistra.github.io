@@ -36,7 +36,7 @@ sections:
           text: BIRRAAAAA
           icon: fos6.jpg
         - title: Foto
-          text: Delirium: sosta fissa delle serate FOSDeM
+          text: Delirium; sosta fissa delle serate FOSDeM
           icon: fos7.jpg
         - title: Foto
           text: Gruppo LILiK al Delirium
@@ -63,7 +63,7 @@ sections:
           text: bei graffiti
           icon: fos15.jpg
         - title: Foto
-          text: nebbia 2: la vendetta
+          text: nebbia 2 - la vendetta
           icon: fos16.jpg
         - title: Foto
           text: tutt3 in metro
