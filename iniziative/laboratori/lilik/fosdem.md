@@ -13,7 +13,7 @@ sections:
     actions:
 #    buttons
     - title: Stanza Matrix Dedicata
-      url: 'https://matrix.to/#/!DpdakPmTMFIxdQRiPR:matrix.org?via=matrix.org&via=lilik.it'
+      url: 'https://matrix.to/#/#fosdem-unifi:matrix.org'
       class: btn-light
   - type: portfolio_1.html
     section_id: foto
