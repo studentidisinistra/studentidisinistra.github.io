@@ -9,7 +9,7 @@ sections:
     section_id: about
     background_style: bg-dark
     title: Vieni al FOSDEM col LILiK!
-    text: Cerchi un gruppo di appassionatə per andare al FOSDeM a Brussels? Anche nel 2025 il LILiK va in viaggio a programmare e bere birra! Per il viaggio stiamo pensando di organizzarci così. Vuoi viaggiare con noi? attualmente è molto conveniente Ryanair per ven 31 gen alle 10 e 25 da Pisa, arrivando alle 12 e 15 a Brussels (FR 3746) e lun 3 feb alle 20 da Brussels, arrivando alle 21 e 45 a Pisa (FR 3748) a circa 56 euro. Per l'albergo normalmente prendiamo le camere da 4 all'hotel Citadines, che costano circa 110 euro a testa. Restano da aggiungere i trasporti Firenze-Pisa e Charleroi-Bruxelles, oltre ai biglietti della metro sul luogo (ma quelli sono economici). Entra in chat nella stanza Matrix per organizzarci insieme!
+    text: Cerchi un gruppo di appassionatə per andare al FOSDeM a Brussels? Anche nel 2025 il LILiK va in viaggio a programmare e bere birra! Per il viaggio stiamo pensando di organizzarci così. Vuoi viaggiare con noi? attualmente è molto conveniente Ryanair per ven 31 gen alle 10 e 25 da Pisa, arrivando alle 12 e 15 a Brussels (FR 3746) e lun 3 feb alle 20 da Brussels, arrivando alle 21 e 45 a Pisa (FR 3748) a circa 56 euro. Per l'albergo normalmente prendiamo le camere da 4 all'hotel Citadines, che costano circa 110 euro a testa. Restano da aggiungere i trasporti Firenze-Pisa e Charleroi-Bruxelles, oltre ai biglietti della metro sul luogo (ma quelli sono economici). Entra in chat nella stanza Matrix per organizzarci insieme! Dubbi? scrivi su whatsapp/telegram a 3891395375
     actions:
 #    buttons
     - title: Stanza Matrix Dedicata
