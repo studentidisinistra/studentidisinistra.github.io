@@ -32,7 +32,7 @@ sections:
     #
         - title: Day 10
           text: Hoof it
-          icon: day9.png
+          icon: day10.png
         - title: Day 10
           text: Disk Fragmenter
           icon: day9.png
