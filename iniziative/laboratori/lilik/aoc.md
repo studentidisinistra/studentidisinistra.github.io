@@ -30,12 +30,43 @@ sections:
     section_id: guida
     projects:
     #
+        - title: Day 10
+          text: Hoof it
+          icon: day9.png
+        - title: Day 10
+          text: Disk Fragmenter
+          icon: day9.png
+        - title: Day 8
+          text: Resonant Collinearity
+          icon: day8.png
+        - title: Day 7
+          text: Bridge Repair
+          icon: day7.png
+        - title: Day 6
+          text: Guard gallivant
+          icon: day6.png
+        - title: Day 5
+          text: Print Queue
+          icon: day5.png
+        - title: Day 4
+          text: Ceres Search
+          icon: day4.png
+        - title: Day 3
+          text: Mull It Over
+          icon: day3.png
+        - title: Day 2
+          text: Red-Nosed Reports
+          icon: day2.png
+        - title: Day 1
+          text: Historian Hysteria
+          icon: day1.png
         - title: Come accedo alla leaderboard del LILiK?
           text: Tocca qui per vedere una guida all'accesso alla leaderboard
           icon: 1aoc.jpg
         - title: Volantino AoC LILiK
           text: sfoglia il volantino ufficiale
           icon: 2aoc.jpg
+        
   - type: portfolio.html
     section_id: video
     projects:
