@@ -30,6 +30,9 @@ sections:
     section_id: guida
     projects:
     #
+        - title: Day 11
+          text: Plutonian Pebbles
+          icon: day11.png
         - title: Day 10
           text: Hoof it
           icon: day10.png
