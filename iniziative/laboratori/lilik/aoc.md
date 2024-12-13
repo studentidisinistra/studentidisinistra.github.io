@@ -30,39 +30,45 @@ sections:
     section_id: guida
     projects:
     #
+        - title: Day 13
+          text: Claw Contraption
+          icon: day13.jpg
+        - title: Day 12
+          text: Garden Groups
+          icon: day12.jpg
         - title: Day 11
           text: Plutonian Pebbles
-          icon: day11.png
+          icon: day11.jpg
         - title: Day 10
           text: Hoof it
-          icon: day10.png
+          icon: day10.jpg
         - title: Day 10
           text: Disk Fragmenter
-          icon: day9.png
+          icon: day9.jpg
         - title: Day 8
           text: Resonant Collinearity
-          icon: day8.png
+          icon: day8.jpg
         - title: Day 7
           text: Bridge Repair
-          icon: day7.png
+          icon: day7.jpg
         - title: Day 6
           text: Guard gallivant
-          icon: day6.png
+          icon: day6.jpg
         - title: Day 5
           text: Print Queue
-          icon: day5.png
+          icon: day5.jpg
         - title: Day 4
           text: Ceres Search
-          icon: day4.png
+          icon: day4.jpg
         - title: Day 3
           text: Mull It Over
-          icon: day3.png
+          icon: day3.jpg
         - title: Day 2
           text: Red-Nosed Reports
-          icon: day2.png
+          icon: day2.jpg
         - title: Day 1
           text: Historian Hysteria
-          icon: day1.png
+          icon: day1.jpg
         - title: Come accedo alla leaderboard del LILiK?
           text: Tocca qui per vedere una guida all'accesso alla leaderboard
           icon: 1aoc.jpg
