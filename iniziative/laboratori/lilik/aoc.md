@@ -30,6 +30,12 @@ sections:
     section_id: guida
     projects:
     #
+        - title: Day 15
+          text: Warehouse Woes
+          icon: day15.jpg
+        - title: Day 14
+          text: Restroom Redoubt
+          icon: day14.jpg
         - title: Day 13
           text: Claw Contraption
           icon: day13.jpg
