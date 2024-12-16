@@ -30,6 +30,9 @@ sections:
     section_id: guida
     projects:
     #
+        - title: Day 16
+          text: Raindeer Maze
+          icon: day16.jpg
         - title: Day 15
           text: Warehouse Woes
           icon: day15.jpg
