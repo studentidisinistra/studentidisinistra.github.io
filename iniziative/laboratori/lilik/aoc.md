@@ -30,6 +30,19 @@ sections:
     section_id: guida
     projects:
     #
+        - title: Day 20
+          text: Race Condition
+          icon: day20.jpg
+        - title: Day 19
+          text: Linen Layout
+          icon: day19.jpg
+        - title: Day 18
+          text: RAM Run
+          icon: day18.jpg
+        - title: Day 17
+          text: Chronospatial Computer
+          icon: day17.jpg
+        - title: Day 12
         - title: Day 16
           text: Raindeer Maze
           icon: day16.jpg
@@ -43,6 +56,8 @@ sections:
           text: Claw Contraption
           icon: day13.jpg
         - title: Day 12
+          text: Garden Groups
+          icon: day12.jpg
           text: Garden Groups
           icon: day12.jpg
         - title: Day 11
