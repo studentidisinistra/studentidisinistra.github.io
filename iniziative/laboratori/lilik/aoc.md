@@ -42,7 +42,6 @@ sections:
         - title: Day 17
           text: Chronospatial Computer
           icon: day17.jpg
-        - title: Day 12
         - title: Day 16
           text: Raindeer Maze
           icon: day16.jpg
