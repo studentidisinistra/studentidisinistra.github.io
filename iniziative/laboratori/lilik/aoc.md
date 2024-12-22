@@ -30,6 +30,12 @@ sections:
     section_id: guida
     projects:
     #
+        - title: Day 22
+          text: Monkey Market
+          icon: day22.jpg
+        - title: Day 21
+          text: Keypad Conundrum
+          icon: day21.jpg
         - title: Day 20
           text: Race Condition
           icon: day20.jpg
