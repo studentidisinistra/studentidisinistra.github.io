@@ -30,6 +30,15 @@ sections:
     section_id: guida
     projects:
     #
+        - title: Day 25
+          text: Code Chronicles
+          icon: day25.jpg
+        - title: Day 24
+          text: Crossed Wires
+          icon: day24.jpg
+        - title: Day 23
+          text: LAN Party
+          icon: day23.jpg
         - title: Day 22
           text: Monkey Market
           icon: day22.jpg
